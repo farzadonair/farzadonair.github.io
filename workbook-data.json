@@ -1,0 +1,4284 @@
+{
+  "tools": [
+    {
+      "name": "Steekringsleutel",
+      "desc": "Ook: ringsteeksleutel. Eén open kant en één ring.",
+      "page": 9,
+      "image": "assets/tool-0.png"
+    },
+    {
+      "name": "Schroevendraaier plat",
+      "desc": "Een rechte, platte punt voor een passende sleufschroef.",
+      "page": 9,
+      "image": "assets/tool-1.png"
+    },
+    {
+      "name": "Schroevendraaier kruis",
+      "desc": "Een kruispunt; profiel en maat moeten bij de schroef passen.",
+      "page": 9,
+      "image": "assets/tool-2.png"
+    },
+    {
+      "name": "Vuistschroevendraaier",
+      "desc": "Korte schroevendraaier voor weinig werkruimte; kies het juiste profiel.",
+      "page": 9,
+      "image": "assets/tool-3.png"
+    },
+    {
+      "name": "Schuifmaat",
+      "desc": "Meetgereedschap met schuivende bekken.",
+      "page": 10,
+      "image": "assets/tool-4.png"
+    },
+    {
+      "name": "Inbussleutels",
+      "desc": "Sleutels voor een binnenzeskant. Noteer de maten van de schoolset zelf.",
+      "page": 10,
+      "image": "assets/tool-5.png"
+    },
+    {
+      "name": "Veiligheidsbril",
+      "desc": "Persoonlijk beschermingsmiddel voor je ogen.",
+      "page": 10,
+      "image": "assets/tool-6.png"
+    },
+    {
+      "name": "Rolmaat",
+      "desc": "Meetlint dat in een houder kan worden opgerold.",
+      "page": 10,
+      "image": "assets/tool-7.png"
+    },
+    {
+      "name": "Stanleymes",
+      "desc": "Ook: afbreekmes of uitschuifmes, afhankelijk van de uitvoering.",
+      "page": 10,
+      "image": "assets/tool-8.png"
+    },
+    {
+      "name": "Doppenset ¼ inch",
+      "desc": "De aandrijfmaat is ¼ inch; de dopmaat zelf is een andere maat.",
+      "page": 11,
+      "image": "assets/tool-9.png"
+    },
+    {
+      "name": "Verlengstuk ¼ inch",
+      "desc": "Verbindt een kleine ratel en een dop over een grotere afstand.",
+      "page": 11,
+      "image": "assets/tool-10.png"
+    },
+    {
+      "name": "Knietje ¼ inch",
+      "desc": "Ook: cardangewricht. Een scharnierende verbinding voor de dopaandrijving.",
+      "page": 11,
+      "image": "assets/tool-11.png"
+    },
+    {
+      "name": "Bitjeshouder",
+      "desc": "Houder om passende schroefbits aan te drijven.",
+      "page": 11,
+      "image": "assets/tool-12.png"
+    },
+    {
+      "name": "Ratel ¼ inch",
+      "desc": "Kleine ratel uit de schoolset.",
+      "page": 11,
+      "image": "assets/tool-13.png"
+    },
+    {
+      "name": "Bitjesset",
+      "desc": "Verschillende verwisselbare schroefpunten.",
+      "page": 11,
+      "image": "assets/tool-14.png"
+    },
+    {
+      "name": "Dopschroevendraaier",
+      "desc": "Handgreep met dop- of bithouderaandrijving zoals in de schoolset.",
+      "page": 11,
+      "image": "assets/tool-15.png"
+    },
+    {
+      "name": "Schaar",
+      "desc": "Twee snijdende bladen met vingergrepen.",
+      "page": 11,
+      "image": "assets/tool-16.png"
+    },
+    {
+      "name": "Haakse schroevendraaier",
+      "desc": "Schroevendraaier met haakse uiteinden; controleer plat of kruis in de werkplaats.",
+      "page": 11,
+      "image": "assets/tool-17.png"
+    },
+    {
+      "name": "Kraspen",
+      "desc": "Stalen punt om lijnen op geschikt materiaal af te tekenen.",
+      "page": 11,
+      "image": "assets/tool-18.png"
+    },
+    {
+      "name": "Voelermaatjes",
+      "desc": "Dunne meetbladen met bekende diktes.",
+      "page": 11,
+      "image": "assets/tool-19.png"
+    },
+    {
+      "name": "Doppenset ½ inch",
+      "desc": "Grotere dopaandrijving: ½ inch. Controleer de dopmaten op de schoolset.",
+      "page": 11,
+      "image": "assets/tool-20.png"
+    },
+    {
+      "name": "Verlengstuk kort ½ inch",
+      "desc": "Kort verlengstuk voor de grote dopaandrijving.",
+      "page": 11,
+      "image": "assets/tool-21.png"
+    },
+    {
+      "name": "Verlengstuk lang ½ inch",
+      "desc": "Lang verlengstuk voor de grote dopaandrijving.",
+      "page": 11,
+      "image": "assets/tool-22.png"
+    },
+    {
+      "name": "Knietje ½ inch",
+      "desc": "Ook: cardangewricht voor de ½-inch-aandrijving.",
+      "page": 11,
+      "image": "assets/tool-23.png"
+    },
+    {
+      "name": "Ratel ½ inch",
+      "desc": "Grote ratel uit de schoolset.",
+      "page": 11,
+      "image": "assets/tool-24.png"
+    },
+    {
+      "name": "Griptang",
+      "desc": "Tang die een werkstuk kan vastklemmen en vergrendelen.",
+      "page": 12,
+      "image": "assets/tool-25.png"
+    },
+    {
+      "name": "Zijkniptang",
+      "desc": "Ook: zijsnijtang. Voor het knippen van geschikt draad.",
+      "page": 12,
+      "image": "assets/tool-26.png"
+    },
+    {
+      "name": "Waterpomptang",
+      "desc": "Verstelbare tang met getande bekken.",
+      "page": 12,
+      "image": "assets/tool-27.png"
+    },
+    {
+      "name": "Combinatietang",
+      "desc": "Tang met grijpvlakken en snijkanten.",
+      "page": 12,
+      "image": "assets/tool-28.png"
+    },
+    {
+      "name": "Punttang",
+      "desc": "Ook: telefoontang. Lange, smalle bekken.",
+      "page": 12,
+      "image": "assets/tool-29.png"
+    },
+    {
+      "name": "Torx-schroevendraaiers",
+      "desc": "Schroevendraaiers met een zespuntig sterprofiel.",
+      "page": 13,
+      "image": "assets/tool-30.png"
+    },
+    {
+      "name": "Borgveertang",
+      "desc": "Ook: borgringtang. Kies een binnen- of buitenvariant die past bij de ring.",
+      "page": 13,
+      "image": "assets/tool-31.png"
+    },
+    {
+      "name": "IJzerzaag",
+      "desc": "Ook: beugelzaag. Zaagblad opgespannen in een beugel.",
+      "page": 14,
+      "image": "assets/tool-32.png"
+    },
+    {
+      "name": "Staalborstel",
+      "desc": "Borstel met metalen haren.",
+      "page": 14,
+      "image": "assets/tool-33.png"
+    },
+    {
+      "name": "Bankhamer",
+      "desc": "Stalen hamer met een vlakke slagzijde en een pen.",
+      "page": 14,
+      "image": "assets/tool-34.png",
+      "target": [
+        11,
+        52
+      ]
+    },
+    {
+      "name": "Kunststofhamer",
+      "desc": "Hamer met kunststof slagvlakken.",
+      "page": 14,
+      "image": "assets/tool-35.png",
+      "target": [
+        92,
+        32
+      ]
+    },
+    {
+      "name": "Pendrijvers / doorslagen",
+      "desc": "Drijvers om passende pennen door te slaan; verschillende maten.",
+      "page": 12,
+      "image": "assets/tool-36.png"
+    },
+    {
+      "name": "Koudbeitel",
+      "desc": "Beitel met een brede snijkant voor koud metaal.",
+      "page": 12,
+      "image": "assets/tool-37.png"
+    },
+    {
+      "name": "Kruisbeitel",
+      "desc": "Beitel met een smalle snijkant.",
+      "page": 12,
+      "image": "assets/tool-38.png"
+    },
+    {
+      "name": "Centerpons",
+      "desc": "Puntig gereedschap om een centreerpunt in metaal te slaan.",
+      "page": 12,
+      "image": "assets/tool-39.png"
+    }
+  ],
+  "lamps": [
+    "Laadstroomcontrole",
+    "Elektrisch systeem motor",
+    "Elektrische stuurbekrachtiging",
+    "Remsysteem",
+    "Lage oliedruk",
+    "ABS",
+    "Motortemperatuur",
+    "Aanvullend veiligheidssysteem",
+    "Brandstoffilter",
+    "Laag motoroliepeil",
+    "Laag brandstofniveau"
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "title": "Gereedschappen",
+      "pages": "8–16",
+      "summary": "Herken het gereedschap in alle zeven laden en leer de namen die jouw school gebruikt.",
+      "learn": [
+        "Ken de namen op pagina 8. Zoek het echte gereedschap terug op de foto’s van pagina 9–14.",
+        "Leer ook synoniemen: steekringsleutel / ringsteeksleutel, zijkniptang / zijsnijtang, punttang / telefoontang, knietje / cardangewricht.",
+        "Houd ¼ inch en ½ inch als aandrijfmaat uit elkaar. Dat is niet de sleutelwijdte of dopmaat in millimeters.",
+        "Bij de sets vraagt het boek van welke maat tot welke maat ze lopen. Lees dit af op de schoolset; die antwoorden staan niet volledig ingevuld in het boek.",
+        "Het leerdoel noemt 75% van de namen herkennen. Dat is geen gepubliceerde slaaggrens van de toets.",
+        "In het vakboek zet je per gereedschap een afbeelding en een korte uitleg. Een passende ringsleutel omsluit de moer beter dan een steeksleutel."
+      ],
+      "practice": [
+        "Wijs het gereedschap aan in elke lade en zeg de naam hardop.",
+        "Lees de maten van sleutels, doppen, inbus- en Torx-gereedschap af en noteer ze.",
+        "Maak de afbeeldingen met korte uitleg voor de vakboekopdracht op pagina 15–16."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Inspectie van de auto",
+      "pages": "17–21",
+      "summary": "Benoem delen binnen en buiten de auto en schrijf concreet op wat je ziet.",
+      "learn": [
+        "Exterieur = buitenkant. Interieur = binnenkant. Leer de onderdelen van beide checklists.",
+        "Controleer elk onderdeel en noteer OK of niet OK met een duidelijke opmerking, bijvoorbeeld: kras op het linker voorportier.",
+        "Leer woorden als kras, deuk, vuil, smerig, beschadigd, rubber en bekleding.",
+        "Noem bij schade de plek en wat je ziet. Links en rechts worden bij een auto vanuit de rijrichting benoemd.",
+        "Op pagina 21 staan elf dashboardlampjes die je bij naam moet kunnen herkennen. Oliedruk is iets anders dan oliepeil.",
+        "Het leerdoel noemt 75% van de onderdeel-namen kennen én iets over hun toestand kunnen zeggen. De toetsgrens staat niet in dit boek."
+      ],
+      "practice": [
+        "Loop met de checklist rond de auto en inspecteer daarna het interieur.",
+        "Plak de namen met de docent op de juiste plaats op de auto.",
+        "Vul pagina 20 in met namen van carrosseriedelen.",
+        "Leer de elf waarschuwings- en controlelampjes van pagina 21."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Beroepshouding en veiligheid",
+      "pages": "6, 22–26",
+      "summary": "Laat zien dat je zorgvuldig, veilig en respectvol in de werkplaats werkt.",
+      "learn": [
+        "Draag veiligheidsschoenen en geschikte, schone werkkleding. Gebruik extra bescherming waar de taak dat vraagt.",
+        "Volgens de schoolregels: geen eten of drinken, geen oortjes of koptelefoon en geen grapjes bij machines.",
+        "Volgens de schoolregels werken maximaal twee leerlingen aan of onder één hefbrug. Raak een brug of auto niet zomaar aan als een ander ermee werkt.",
+        "Leun niet tegen auto’s, leg er niets op en gebruik de motorkap niet als schrijftafel.",
+        "Gebruik een stoel-, stuur- en vloerhoes waar nodig. Blijf zonder werkreden af van radio, stoelinstelling, dashboardkastje en persoonlijke spullen.",
+        "Praat netjes met klanten en collega’s, meld afwijkingen aan je chef of docent en lever de auto schoon af.",
+        "Help ook met schoonmaken van de gezamenlijke werkplaats. Laat werkzaamheden aftekenen."
+      ],
+      "practice": [
+        "Bespreek de situaties op pagina 24: wat zie je en waarom is dit onjuist?",
+        "Laat zien hoe je een auto beschermt voordat je erin werkt.",
+        "Houd je werkplek schoon en vul de opruimlijst van pagina 23 in."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Banden en bandencontrole",
+      "pages": "27–36",
+      "summary": "Lees de bandencode, reken de hoogte uit en controleer toestand, spanning en profiel.",
+      "learn": [
+        "205/65 R15 94 T: 205 mm breed; hoogte 65% van die breedte; R = radiaal; 15 inch hieldiameter; 94 = draaggetal; T = snelheidsindex.",
+        "Hoogte = breedte × percentage ÷ 100. 205 × 65 ÷ 100 = 133,25 mm. 195 × 55 ÷ 100 = 107,25 mm. 195 × 50 ÷ 100 = 97,5 mm.",
+        "Volgens de tabel: 94 = 670 kg per band; 87 = 545 kg; 82 = 475 kg. T = 190 km/h; V = 240 km/h; S = 180 km/h.",
+        "Leer zes delen: loopvlak, schouder, wang, hiel, hieldraad (hielkern) en karkas. Het karkas geeft sterkte en vorm.",
+        "Zoek voorgeschreven spanning in de voertuiggegevens, bijvoorbeeld portier, tankklep of instructieboek. Voor/achter en beladen/onbeladen kunnen verschillen.",
+        "Controleer spanning, profieldiepte, slijtagebeeld en beschadigingen. Leer droogtescheuren, karkasschade en scheve slijtage herkennen.",
+        "De hoofdgroeven moeten minimaal 1,6 mm diep zijn. Meet op meerdere plaatsen; de laagste relevante meting telt. De slijtage-indicator is 1,6 mm hoog.",
+        "RDW verduidelijkt de hoofdgroeven: ongeveer de middelste 75% van het loopvlak. De vereenvoudigde tekst in het boek is geen volledige APK-keurinstructie."
+      ],
+      "practice": [
+        "Noteer merk, type, bouwjaar en kilometerstand van de auto.",
+        "Vul de echte en voorgeschreven bandenspanning in, ook beladen/onbeladen, en meet de profieldiepte.",
+        "Lees van echte banden de code en zoek draaggetal en snelheidsindex in de tabel op.",
+        "Maak voor twee banden zelfstandig de tabellen op pagina 33–34, inclusief de hoogteberekening."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Banden monteren en demonteren",
+      "pages": "37–42",
+      "summary": "Begrijp de functie van het diepbed en oefen zorgvuldig onder begeleiding.",
+      "learn": [
+        "Demonteren = de band van de velg halen. Monteren = de band op de velg zetten. Dit is iets anders dan een compleet wiel aan de auto wisselen.",
+        "Het diepbed geeft de hiel ruimte. Zonder die ruimte kan de hiel te veel op spanning komen en beschadigen.",
+        "Ken montagearm, opspantafel, hieldrukinrichting, velgrand, diepbed, ventiel, druksensor, bandenijzer en montagepasta.",
+        "Voor het losdrukken moet de band volledig leeg zijn. Oude balanceergewichten worden vooraf verwijderd.",
+        "Controleer band en velg, maat, draairichting en binnen-/buitenzijde. ROTATION gaat over draairichting; INSIDE/OUTSIDE over montagezijde.",
+        "De montagekop mag de velg niet beschadigen. Bescherm ook de druksensor bij het ventiel; volg de methode van de docent voor de gebruikte machine.",
+        "Let op een verschil in het boek: pagina 38 noemt velgen met een diepbed aan de andere kant; de vraag op pagina 39 zegt “altijd buitenkant boven”. Vraag de docent naar de juiste opspanning voor de werkelijke velg.",
+        "Pagina 39 noemt maximaal 3,5 bar voor het zetten van de hielen. Dit is een schooltekst, geen universele oppompinstructie. Gebruik de voorschriften van band, velg, machine en docent."
+      ],
+      "practice": [
+        "Vraag eerst een demonstratie als je de machine niet kent.",
+        "Oefen volgens pagina 40 met minimaal vier verschillende wielen met stalen velgen, onder begeleiding.",
+        "Meld beschadiging aan de hiel direct aan de docent en laat de band beoordelen.",
+        "Vul de vakboekopdracht op pagina 41 in met afbeeldingen en uitleg."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Wielen balanceren",
+      "pages": "43–47",
+      "summary": "Leg onbalans uit, ken de hulpmiddelen en oefen de controle na het balanceren.",
+      "learn": [
+        "Onbalans ontstaat door een ongelijke gewichtsverdeling in de band-wielcombinatie en kan trillingen veroorzaken.",
+        "Statische onbalans veroorzaakt een op-en-neergaande beweging. Dynamische onbalans veroorzaakt een zijdelingse slingerbeweging.",
+        "Volgens het boek merk je onbalans voor vaak aan het stuur. Trillen is een aanwijzing, geen sluitende diagnose voor elke auto.",
+        "Maak het wiel schoon, haal steentjes en oude gewichten weg en controleer schade en de juiste bandenspanning.",
+        "Centreer het wiel zorgvuldig, zoveel mogelijk zoals op de auto: op boutgaten, centraal gat of beide, afhankelijk van de constructie.",
+        "Voer de gevraagde afmetingen in volgens de balanceermachine. Bij gangbare machines gaat dit om velgafstand, velgdiameter en velgbreedte; het boek noemt op pagina 43 “breedte van de band”. Laat dit op de schoolmachine verduidelijken.",
+        "Leer balanceertang, slaggewicht (slaglood) en plakgewicht (plaklood). In deze opdracht gebruikt het boek slaggewichten bij standaard stalen velgen en plakgewichten bij lichtmetaal om schade te voorkomen; de geschikte uitvoering hangt van de velg af.",
+        "Controleer na het aanbrengen van gewichten opnieuw. Drie stukjes van 5 gram zijn samen 15 gram."
+      ],
+      "practice": [
+        "Vraag de docent de balanceermachine uit te leggen en voor te doen.",
+        "Balanceer alle vier wielen van een auto, onder begeleiding.",
+        "Noteer welke gewichten je hebt geplaatst en wat je aan band en velg hebt gezien.",
+        "Beschrijf de opspanmethode en centrering in het vakboek; voeg afbeeldingen van hulpmiddelen toe."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "topic": 1,
+      "page": 9,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Steekringsleutel",
+      "choices": [
+        "Steekringsleutel",
+        "Schroevendraaier plat",
+        "Schroevendraaier kruis",
+        "Vuistschroevendraaier"
+      ],
+      "explanation": "Ook: ringsteeksleutel. Eén open kant en één ring.",
+      "image": "assets/tool-0.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q2",
+      "topic": 1,
+      "page": 9,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Schroevendraaier plat",
+      "choices": [
+        "Schroevendraaier plat",
+        "Schuifmaat",
+        "Inbussleutels",
+        "Veiligheidsbril"
+      ],
+      "explanation": "Een rechte, platte punt voor een passende sleufschroef.",
+      "image": "assets/tool-1.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q3",
+      "topic": 1,
+      "page": 9,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Schroevendraaier kruis",
+      "choices": [
+        "Schroevendraaier kruis",
+        "Inbussleutels",
+        "Veiligheidsbril",
+        "Rolmaat"
+      ],
+      "explanation": "Een kruispunt; profiel en maat moeten bij de schroef passen.",
+      "image": "assets/tool-2.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q4",
+      "topic": 1,
+      "page": 9,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Vuistschroevendraaier",
+      "choices": [
+        "Vuistschroevendraaier",
+        "Veiligheidsbril",
+        "Rolmaat",
+        "Stanleymes"
+      ],
+      "explanation": "Korte schroevendraaier voor weinig werkruimte; kies het juiste profiel.",
+      "image": "assets/tool-3.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q5",
+      "topic": 1,
+      "page": 10,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Schuifmaat",
+      "choices": [
+        "Schuifmaat",
+        "Inbussleutels",
+        "Veiligheidsbril",
+        "Rolmaat"
+      ],
+      "explanation": "Meetgereedschap met schuivende bekken.",
+      "image": "assets/tool-4.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q6",
+      "topic": 1,
+      "page": 10,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Inbussleutels",
+      "choices": [
+        "Inbussleutels",
+        "Veiligheidsbril",
+        "Rolmaat",
+        "Stanleymes"
+      ],
+      "explanation": "Sleutels voor een binnenzeskant. Noteer de maten van de schoolset zelf.",
+      "image": "assets/tool-5.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q7",
+      "topic": 1,
+      "page": 10,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Veiligheidsbril",
+      "choices": [
+        "Veiligheidsbril",
+        "Rolmaat",
+        "Stanleymes",
+        "Doppenset ¼ inch"
+      ],
+      "explanation": "Persoonlijk beschermingsmiddel voor je ogen.",
+      "image": "assets/tool-6.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q8",
+      "topic": 1,
+      "page": 10,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Rolmaat",
+      "choices": [
+        "Rolmaat",
+        "Stanleymes",
+        "Doppenset ¼ inch",
+        "Verlengstuk ¼ inch"
+      ],
+      "explanation": "Meetlint dat in een houder kan worden opgerold.",
+      "image": "assets/tool-7.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q9",
+      "topic": 1,
+      "page": 10,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Stanleymes",
+      "choices": [
+        "Stanleymes",
+        "Doppenset ¼ inch",
+        "Verlengstuk ¼ inch",
+        "Knietje ¼ inch"
+      ],
+      "explanation": "Ook: afbreekmes of uitschuifmes, afhankelijk van de uitvoering.",
+      "image": "assets/tool-8.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q10",
+      "topic": 1,
+      "page": 11,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Doppenset ¼ inch",
+      "choices": [
+        "Doppenset ¼ inch",
+        "Verlengstuk ¼ inch",
+        "Knietje ¼ inch",
+        "Bitjeshouder"
+      ],
+      "explanation": "De aandrijfmaat is ¼ inch; de dopmaat zelf is een andere maat.",
+      "image": "assets/tool-9.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q11",
+      "topic": 1,
+      "page": 11,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Verlengstuk ¼ inch",
+      "choices": [
+        "Verlengstuk ¼ inch",
+        "Knietje ¼ inch",
+        "Bitjeshouder",
+        "Ratel ¼ inch"
+      ],
+      "explanation": "Verbindt een kleine ratel en een dop over een grotere afstand.",
+      "image": "assets/tool-10.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q12",
+      "topic": 1,
+      "page": 11,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Knietje ¼ inch",
+      "choices": [
+        "Knietje ¼ inch",
+        "Bitjeshouder",
+        "Ratel ¼ inch",
+        "Bitjesset"
+      ],
+      "explanation": "Ook: cardangewricht. Een scharnierende verbinding voor de dopaandrijving.",
+      "image": "assets/tool-11.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q13",
+      "topic": 1,
+      "page": 11,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Bitjeshouder",
+      "choices": [
+        "Bitjeshouder",
+        "Ratel ¼ inch",
+        "Bitjesset",
+        "Dopschroevendraaier"
+      ],
+      "explanation": "Houder om passende schroefbits aan te drijven.",
+      "image": "assets/tool-12.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q14",
+      "topic": 1,
+      "page": 11,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Ratel ¼ inch",
+      "choices": [
+        "Ratel ¼ inch",
+        "Bitjesset",
+        "Dopschroevendraaier",
+        "Schaar"
+      ],
+      "explanation": "Kleine ratel uit de schoolset.",
+      "image": "assets/tool-13.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q15",
+      "topic": 1,
+      "page": 11,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Bitjesset",
+      "choices": [
+        "Bitjesset",
+        "Dopschroevendraaier",
+        "Schaar",
+        "Haakse schroevendraaier"
+      ],
+      "explanation": "Verschillende verwisselbare schroefpunten.",
+      "image": "assets/tool-14.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q16",
+      "topic": 1,
+      "page": 11,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Dopschroevendraaier",
+      "choices": [
+        "Dopschroevendraaier",
+        "Doppenset ½ inch",
+        "Verlengstuk kort ½ inch",
+        "Verlengstuk lang ½ inch"
+      ],
+      "explanation": "Handgreep met dop- of bithouderaandrijving zoals in de schoolset.",
+      "image": "assets/tool-15.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q17",
+      "topic": 1,
+      "page": 11,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Schaar",
+      "choices": [
+        "Schaar",
+        "Haakse schroevendraaier",
+        "Kraspen",
+        "Voelermaatjes"
+      ],
+      "explanation": "Twee snijdende bladen met vingergrepen.",
+      "image": "assets/tool-16.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q18",
+      "topic": 1,
+      "page": 11,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Haakse schroevendraaier",
+      "choices": [
+        "Haakse schroevendraaier",
+        "Verlengstuk lang ½ inch",
+        "Knietje ½ inch",
+        "Ratel ½ inch"
+      ],
+      "explanation": "Schroevendraaier met haakse uiteinden; controleer plat of kruis in de werkplaats.",
+      "image": "assets/tool-17.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q19",
+      "topic": 1,
+      "page": 11,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Kraspen",
+      "choices": [
+        "Kraspen",
+        "Voelermaatjes",
+        "Doppenset ½ inch",
+        "Verlengstuk kort ½ inch"
+      ],
+      "explanation": "Stalen punt om lijnen op geschikt materiaal af te tekenen.",
+      "image": "assets/tool-18.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q20",
+      "topic": 1,
+      "page": 11,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Voelermaatjes",
+      "choices": [
+        "Voelermaatjes",
+        "Doppenset ½ inch",
+        "Verlengstuk kort ½ inch",
+        "Verlengstuk lang ½ inch"
+      ],
+      "explanation": "Dunne meetbladen met bekende diktes.",
+      "image": "assets/tool-19.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q21",
+      "topic": 1,
+      "page": 11,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Doppenset ½ inch",
+      "choices": [
+        "Doppenset ½ inch",
+        "Verlengstuk lang ½ inch",
+        "Knietje ½ inch",
+        "Ratel ½ inch"
+      ],
+      "explanation": "Grotere dopaandrijving: ½ inch. Controleer de dopmaten op de schoolset.",
+      "image": "assets/tool-20.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q22",
+      "topic": 1,
+      "page": 11,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Verlengstuk kort ½ inch",
+      "choices": [
+        "Verlengstuk kort ½ inch",
+        "Ratel ½ inch",
+        "Griptang",
+        "Zijkniptang"
+      ],
+      "explanation": "Kort verlengstuk voor de grote dopaandrijving.",
+      "image": "assets/tool-21.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q23",
+      "topic": 1,
+      "page": 11,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Verlengstuk lang ½ inch",
+      "choices": [
+        "Verlengstuk lang ½ inch",
+        "Griptang",
+        "Zijkniptang",
+        "Waterpomptang"
+      ],
+      "explanation": "Lang verlengstuk voor de grote dopaandrijving.",
+      "image": "assets/tool-22.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q24",
+      "topic": 1,
+      "page": 11,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Knietje ½ inch",
+      "choices": [
+        "Knietje ½ inch",
+        "Griptang",
+        "Zijkniptang",
+        "Waterpomptang"
+      ],
+      "explanation": "Ook: cardangewricht voor de ½-inch-aandrijving.",
+      "image": "assets/tool-23.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q25",
+      "topic": 1,
+      "page": 11,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Ratel ½ inch",
+      "choices": [
+        "Ratel ½ inch",
+        "Zijkniptang",
+        "Waterpomptang",
+        "Combinatietang"
+      ],
+      "explanation": "Grote ratel uit de schoolset.",
+      "image": "assets/tool-24.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q26",
+      "topic": 1,
+      "page": 12,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Griptang",
+      "choices": [
+        "Griptang",
+        "Torx-schroevendraaiers",
+        "IJzerzaag",
+        "Staalborstel"
+      ],
+      "explanation": "Tang die een werkstuk kan vastklemmen en vergrendelen.",
+      "image": "assets/tool-25.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q27",
+      "topic": 1,
+      "page": 12,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Zijkniptang",
+      "choices": [
+        "Zijkniptang",
+        "IJzerzaag",
+        "Staalborstel",
+        "Bankhamer"
+      ],
+      "explanation": "Ook: zijsnijtang. Voor het knippen van geschikt draad.",
+      "image": "assets/tool-26.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q28",
+      "topic": 1,
+      "page": 12,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Waterpomptang",
+      "choices": [
+        "Waterpomptang",
+        "Staalborstel",
+        "Bankhamer",
+        "Kunststofhamer"
+      ],
+      "explanation": "Verstelbare tang met getande bekken.",
+      "image": "assets/tool-27.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q29",
+      "topic": 1,
+      "page": 12,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Combinatietang",
+      "choices": [
+        "Combinatietang",
+        "Bankhamer",
+        "Kunststofhamer",
+        "Pendrijvers / doorslagen"
+      ],
+      "explanation": "Tang met grijpvlakken en snijkanten.",
+      "image": "assets/tool-28.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q30",
+      "topic": 1,
+      "page": 12,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Punttang",
+      "choices": [
+        "Punttang",
+        "Kunststofhamer",
+        "Pendrijvers / doorslagen",
+        "Koudbeitel"
+      ],
+      "explanation": "Ook: telefoontang. Lange, smalle bekken.",
+      "image": "assets/tool-29.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q31",
+      "topic": 1,
+      "page": 13,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Torx-schroevendraaiers",
+      "choices": [
+        "Torx-schroevendraaiers",
+        "Pendrijvers / doorslagen",
+        "Koudbeitel",
+        "Kruisbeitel"
+      ],
+      "explanation": "Schroevendraaiers met een zespuntig sterprofiel.",
+      "image": "assets/tool-30.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q32",
+      "topic": 1,
+      "page": 13,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Borgveertang",
+      "choices": [
+        "Borgveertang",
+        "Koudbeitel",
+        "Kruisbeitel",
+        "Centerpons"
+      ],
+      "explanation": "Ook: borgringtang. Kies een binnen- of buitenvariant die past bij de ring.",
+      "image": "assets/tool-31.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q33",
+      "topic": 1,
+      "page": 14,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "IJzerzaag",
+      "choices": [
+        "IJzerzaag",
+        "Staalborstel",
+        "Bankhamer",
+        "Kunststofhamer"
+      ],
+      "explanation": "Ook: beugelzaag. Zaagblad opgespannen in een beugel.",
+      "image": "assets/tool-32.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q34",
+      "topic": 1,
+      "page": 14,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Staalborstel",
+      "choices": [
+        "Staalborstel",
+        "Bankhamer",
+        "Kunststofhamer",
+        "Pendrijvers / doorslagen"
+      ],
+      "explanation": "Borstel met metalen haren.",
+      "image": "assets/tool-33.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q35",
+      "topic": 1,
+      "page": 14,
+      "prompt": "Hoe heet het rood gemarkeerde gereedschap?",
+      "answer": "Bankhamer",
+      "choices": [
+        "Bankhamer",
+        "Kunststofhamer",
+        "Pendrijvers / doorslagen",
+        "Koudbeitel"
+      ],
+      "explanation": "Stalen hamer met een vlakke slagzijde en een pen.",
+      "image": "assets/tool-34.png",
+      "kind": "Naam herkennen",
+      "target": [
+        11,
+        52
+      ]
+    },
+    {
+      "id": "q36",
+      "topic": 1,
+      "page": 14,
+      "prompt": "Hoe heet het rood gemarkeerde gereedschap?",
+      "answer": "Kunststofhamer",
+      "choices": [
+        "Kunststofhamer",
+        "Pendrijvers / doorslagen",
+        "Koudbeitel",
+        "Kruisbeitel"
+      ],
+      "explanation": "Hamer met kunststof slagvlakken.",
+      "image": "assets/tool-35.png",
+      "kind": "Naam herkennen",
+      "target": [
+        92,
+        32
+      ]
+    },
+    {
+      "id": "q37",
+      "topic": 1,
+      "page": 12,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Pendrijvers / doorslagen",
+      "choices": [
+        "Pendrijvers / doorslagen",
+        "Koudbeitel",
+        "Kruisbeitel",
+        "Centerpons"
+      ],
+      "explanation": "Drijvers om passende pennen door te slaan; verschillende maten.",
+      "image": "assets/tool-36.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q38",
+      "topic": 1,
+      "page": 12,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Koudbeitel",
+      "choices": [
+        "Koudbeitel",
+        "Kruisbeitel",
+        "Centerpons",
+        "Steekringsleutel"
+      ],
+      "explanation": "Beitel met een brede snijkant voor koud metaal.",
+      "image": "assets/tool-37.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q39",
+      "topic": 1,
+      "page": 12,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Kruisbeitel",
+      "choices": [
+        "Kruisbeitel",
+        "Centerpons",
+        "Steekringsleutel",
+        "Schroevendraaier plat"
+      ],
+      "explanation": "Beitel met een smalle snijkant.",
+      "image": "assets/tool-38.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q40",
+      "topic": 1,
+      "page": 12,
+      "prompt": "Hoe heet dit gereedschap?",
+      "answer": "Centerpons",
+      "choices": [
+        "Centerpons",
+        "Steekringsleutel",
+        "Schroevendraaier plat",
+        "Schroevendraaier kruis"
+      ],
+      "explanation": "Puntig gereedschap om een centreerpunt in metaal te slaan.",
+      "image": "assets/tool-39.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q41",
+      "topic": 2,
+      "page": 21,
+      "prompt": "Hoe heet dit controle- of waarschuwingslampje?",
+      "answer": "Laadstroomcontrole",
+      "choices": [
+        "Laadstroomcontrole",
+        "Elektrisch systeem motor",
+        "Lage oliedruk",
+        "Aanvullend veiligheidssysteem"
+      ],
+      "explanation": "Naam in het werkboek: Laadstroomcontrole. De precieze betekenis en reactie controleer je in het voertuigboek.",
+      "image": "assets/lamp-0.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q42",
+      "topic": 2,
+      "page": 21,
+      "prompt": "Hoe heet dit controle- of waarschuwingslampje?",
+      "answer": "Elektrisch systeem motor",
+      "choices": [
+        "Elektrisch systeem motor",
+        "Elektrische stuurbekrachtiging",
+        "ABS",
+        "Brandstoffilter"
+      ],
+      "explanation": "Naam in het werkboek: Elektrisch systeem motor. De precieze betekenis en reactie controleer je in het voertuigboek.",
+      "image": "assets/lamp-1.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q43",
+      "topic": 2,
+      "page": 21,
+      "prompt": "Hoe heet dit controle- of waarschuwingslampje?",
+      "answer": "Elektrische stuurbekrachtiging",
+      "choices": [
+        "Elektrische stuurbekrachtiging",
+        "Remsysteem",
+        "Motortemperatuur",
+        "Laag motoroliepeil"
+      ],
+      "explanation": "Naam in het werkboek: Elektrische stuurbekrachtiging. De precieze betekenis en reactie controleer je in het voertuigboek.",
+      "image": "assets/lamp-2.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q44",
+      "topic": 2,
+      "page": 21,
+      "prompt": "Hoe heet dit controle- of waarschuwingslampje?",
+      "answer": "Remsysteem",
+      "choices": [
+        "Remsysteem",
+        "Lage oliedruk",
+        "Aanvullend veiligheidssysteem",
+        "Laag brandstofniveau"
+      ],
+      "explanation": "Naam in het werkboek: Remsysteem. De precieze betekenis en reactie controleer je in het voertuigboek.",
+      "image": "assets/lamp-3.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q45",
+      "topic": 2,
+      "page": 21,
+      "prompt": "Hoe heet dit controle- of waarschuwingslampje?",
+      "answer": "Lage oliedruk",
+      "choices": [
+        "Lage oliedruk",
+        "ABS",
+        "Brandstoffilter",
+        "Laadstroomcontrole"
+      ],
+      "explanation": "Naam in het werkboek: Lage oliedruk. De precieze betekenis en reactie controleer je in het voertuigboek.",
+      "image": "assets/lamp-4.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q46",
+      "topic": 2,
+      "page": 21,
+      "prompt": "Hoe heet dit controle- of waarschuwingslampje?",
+      "answer": "ABS",
+      "choices": [
+        "ABS",
+        "Motortemperatuur",
+        "Laag motoroliepeil",
+        "Elektrisch systeem motor"
+      ],
+      "explanation": "Naam in het werkboek: ABS. De precieze betekenis en reactie controleer je in het voertuigboek.",
+      "image": "assets/lamp-5.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q47",
+      "topic": 2,
+      "page": 21,
+      "prompt": "Hoe heet dit controle- of waarschuwingslampje?",
+      "answer": "Motortemperatuur",
+      "choices": [
+        "Motortemperatuur",
+        "Aanvullend veiligheidssysteem",
+        "Laag brandstofniveau",
+        "Elektrische stuurbekrachtiging"
+      ],
+      "explanation": "Naam in het werkboek: Motortemperatuur. De precieze betekenis en reactie controleer je in het voertuigboek.",
+      "image": "assets/lamp-6.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q48",
+      "topic": 2,
+      "page": 21,
+      "prompt": "Hoe heet dit controle- of waarschuwingslampje?",
+      "answer": "Aanvullend veiligheidssysteem",
+      "choices": [
+        "Aanvullend veiligheidssysteem",
+        "Brandstoffilter",
+        "Laadstroomcontrole",
+        "Remsysteem"
+      ],
+      "explanation": "Naam in het werkboek: Aanvullend veiligheidssysteem. De precieze betekenis en reactie controleer je in het voertuigboek.",
+      "image": "assets/lamp-7.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q49",
+      "topic": 2,
+      "page": 21,
+      "prompt": "Hoe heet dit controle- of waarschuwingslampje?",
+      "answer": "Brandstoffilter",
+      "choices": [
+        "Brandstoffilter",
+        "Laag motoroliepeil",
+        "Elektrisch systeem motor",
+        "Lage oliedruk"
+      ],
+      "explanation": "Naam in het werkboek: Brandstoffilter. De precieze betekenis en reactie controleer je in het voertuigboek.",
+      "image": "assets/lamp-8.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q50",
+      "topic": 2,
+      "page": 21,
+      "prompt": "Hoe heet dit controle- of waarschuwingslampje?",
+      "answer": "Laag motoroliepeil",
+      "choices": [
+        "Laag motoroliepeil",
+        "Laag brandstofniveau",
+        "Elektrische stuurbekrachtiging",
+        "ABS"
+      ],
+      "explanation": "Naam in het werkboek: Laag motoroliepeil. De precieze betekenis en reactie controleer je in het voertuigboek.",
+      "image": "assets/lamp-9.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q51",
+      "topic": 2,
+      "page": 21,
+      "prompt": "Hoe heet dit controle- of waarschuwingslampje?",
+      "answer": "Laag brandstofniveau",
+      "choices": [
+        "Laag brandstofniveau",
+        "Laadstroomcontrole",
+        "Remsysteem",
+        "Motortemperatuur"
+      ],
+      "explanation": "Naam in het werkboek: Laag brandstofniveau. De precieze betekenis en reactie controleer je in het voertuigboek.",
+      "image": "assets/lamp-10.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q52",
+      "topic": 4,
+      "page": 33,
+      "prompt": "Hoe heet onderdeel 1 in deze tekening?",
+      "answer": "Loopvlak",
+      "choices": [
+        "Loopvlak",
+        "Schouder",
+        "Wang",
+        "Hiel"
+      ],
+      "explanation": "1 = Loopvlak. Vergelijk met de benoemde tekening op pagina 29.",
+      "image": "assets/band-nummers.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q53",
+      "topic": 4,
+      "page": 33,
+      "prompt": "Hoe heet onderdeel 2 in deze tekening?",
+      "answer": "Schouder",
+      "choices": [
+        "Schouder",
+        "Loopvlak",
+        "Wang",
+        "Hiel"
+      ],
+      "explanation": "2 = Schouder. Vergelijk met de benoemde tekening op pagina 29.",
+      "image": "assets/band-nummers.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q54",
+      "topic": 4,
+      "page": 33,
+      "prompt": "Hoe heet onderdeel 3 in deze tekening?",
+      "answer": "Wang",
+      "choices": [
+        "Wang",
+        "Loopvlak",
+        "Schouder",
+        "Hiel"
+      ],
+      "explanation": "3 = Wang. Vergelijk met de benoemde tekening op pagina 29.",
+      "image": "assets/band-nummers.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q55",
+      "topic": 4,
+      "page": 33,
+      "prompt": "Hoe heet onderdeel 4 in deze tekening?",
+      "answer": "Hiel",
+      "choices": [
+        "Hiel",
+        "Loopvlak",
+        "Schouder",
+        "Wang"
+      ],
+      "explanation": "4 = Hiel. Vergelijk met de benoemde tekening op pagina 29.",
+      "image": "assets/band-nummers.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q56",
+      "topic": 4,
+      "page": 33,
+      "prompt": "Hoe heet onderdeel 5 in deze tekening?",
+      "answer": "Hieldraad (hielkern)",
+      "choices": [
+        "Hieldraad (hielkern)",
+        "Loopvlak",
+        "Schouder",
+        "Wang"
+      ],
+      "explanation": "5 = Hieldraad (hielkern). Vergelijk met de benoemde tekening op pagina 29.",
+      "image": "assets/band-nummers.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q57",
+      "topic": 4,
+      "page": 33,
+      "prompt": "Hoe heet onderdeel 6 in deze tekening?",
+      "answer": "Karkas",
+      "choices": [
+        "Karkas",
+        "Loopvlak",
+        "Schouder",
+        "Wang"
+      ],
+      "explanation": "6 = Karkas. Vergelijk met de benoemde tekening op pagina 29.",
+      "image": "assets/band-nummers.png",
+      "kind": "Naam herkennen"
+    },
+    {
+      "id": "q58",
+      "topic": 1,
+      "page": 8,
+      "prompt": "Waarom moet je de juiste gereedschapsnamen leren?",
+      "answer": "Om duidelijk met collega’s samen te werken",
+      "choices": [
+        "Om duidelijk met collega’s samen te werken",
+        "Om sneller gereedschap te verstoppen",
+        "Om nooit meer uitleg te vragen",
+        "Om gereedschap alleen op kleur te kiezen"
+      ],
+      "explanation": "Om duidelijk met collega’s samen te werken",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q59",
+      "topic": 1,
+      "page": 15,
+      "prompt": "Welke sleutel kies je volgens het boek waar dat mogelijk is?",
+      "answer": "Een passende ringsleutel",
+      "choices": [
+        "Een passende ringsleutel",
+        "Een te grote steeksleutel",
+        "Een tang voor iedere bout",
+        "Een willekeurige sleutel"
+      ],
+      "explanation": "Een passende ringsleutel",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q60",
+      "topic": 1,
+      "page": 15,
+      "prompt": "Waarom heeft een passende ringsleutel vaak de voorkeur?",
+      "answer": "Je beschadigt bouten en moeren minder snel",
+      "choices": [
+        "Je beschadigt bouten en moeren minder snel",
+        "Hij past altijd op iedere maat",
+        "Hij vervangt een hamer",
+        "Hij meet het aanhaalmoment"
+      ],
+      "explanation": "Je beschadigt bouten en moeren minder snel",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q61",
+      "topic": 1,
+      "page": 8,
+      "prompt": "Waar lees je de maten van de doppen uit jouw schoolset af?",
+      "answer": "Op de echte doppen in de schoolset",
+      "choices": [
+        "Op de echte doppen in de schoolset",
+        "Aan de kleur van de kar",
+        "Aan de kleur van de banden",
+        "Aan de grootte van de foto"
+      ],
+      "explanation": "Op de echte doppen in de schoolset",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q62",
+      "topic": 1,
+      "page": 8,
+      "prompt": "Wat betekent ½ inch bij een ratel?",
+      "answer": "De maat van de vierkante aandrijving",
+      "choices": [
+        "De maat van de vierkante aandrijving",
+        "De diameter van iedere bout",
+        "De lengte van iedere dop",
+        "De breedte van de band"
+      ],
+      "explanation": "De maat van de vierkante aandrijving",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q63",
+      "topic": 1,
+      "page": 7,
+      "prompt": "Wat betekent het leerdoel van 75% gereedschappen kennen?",
+      "answer": "Een leerdoel; de officiële toetsgrens staat hier niet",
+      "choices": [
+        "Een leerdoel; de officiële toetsgrens staat hier niet",
+        "Je bent automatisch geslaagd met 75%",
+        "Je hoeft de overige gereedschappen nooit te leren",
+        "De toets heeft precies 75 vragen"
+      ],
+      "explanation": "Een leerdoel; de officiële toetsgrens staat hier niet",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q64",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Wat betekent exterieur?",
+      "answer": "De buitenkant van de auto",
+      "choices": [
+        "De buitenkant van de auto",
+        "De binnenkant van de auto",
+        "De gereedschapskar",
+        "De kilometerteller"
+      ],
+      "explanation": "De buitenkant van de auto",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q65",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Wat betekent interieur?",
+      "answer": "De binnenkant van de auto",
+      "choices": [
+        "De binnenkant van de auto",
+        "De buitenkant van de auto",
+        "De ondergrond van de garage",
+        "Het loopvlak van de band"
+      ],
+      "explanation": "De binnenkant van de auto",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q66",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welke opmerking is het duidelijkst bij een inspectie?",
+      "answer": "Kras op het linker voorportier",
+      "choices": [
+        "Kras op het linker voorportier",
+        "Auto niet leuk",
+        "Er is iets",
+        "Misschien ergens schade"
+      ],
+      "explanation": "Kras op het linker voorportier",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q67",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Wat noteer je als een onderdeel beschadigd is?",
+      "answer": "Niet OK, met een beschrijving van de schade",
+      "choices": [
+        "Niet OK, met een beschrijving van de schade",
+        "OK zonder opmerking",
+        "Niets",
+        "Alleen de kleur van de auto"
+      ],
+      "explanation": "Niet OK, met een beschrijving van de schade",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q68",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk onderdeel staat op de exterieurchecklist?",
+      "answer": "Motorkap",
+      "choices": [
+        "Motorkap",
+        "Stoelverstelling",
+        "Dakbekleding",
+        "Pedaalrubbers"
+      ],
+      "explanation": "Motorkap",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q69",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Welk onderdeel staat op de interieurchecklist?",
+      "answer": "Pedaalrubbers",
+      "choices": [
+        "Pedaalrubbers",
+        "Voorbumper",
+        "Koplampglazen",
+        "Buitenspiegel"
+      ],
+      "explanation": "Pedaalrubbers",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q70",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Wat controleer je aan de stoelverstelling?",
+      "answer": "Of de stoelverstelling goed werkt",
+      "choices": [
+        "Of de stoelverstelling goed werkt",
+        "Alleen de kleur van de band",
+        "De hoeveelheid brandstof",
+        "De snelheidscode"
+      ],
+      "explanation": "Of de stoelverstelling goed werkt",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q71",
+      "topic": 2,
+      "page": 19,
+      "prompt": "Wat is een deuk?",
+      "answer": "Een plaatselijke vervorming van het oppervlak",
+      "choices": [
+        "Een plaatselijke vervorming van het oppervlak",
+        "Een dashboardlampje",
+        "Een gereedschapsmaat",
+        "Een soort motorolie"
+      ],
+      "explanation": "Een plaatselijke vervorming van het oppervlak",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q72",
+      "topic": 2,
+      "page": 19,
+      "prompt": "Wat is een kras?",
+      "answer": "Een beschadigde streep in een oppervlak",
+      "choices": [
+        "Een beschadigde streep in een oppervlak",
+        "Een type ratel",
+        "Een meeteenheid",
+        "Een bandenmerk"
+      ],
+      "explanation": "Een beschadigde streep in een oppervlak",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q73",
+      "topic": 2,
+      "page": 21,
+      "prompt": "Zijn lage oliedruk en laag motoroliepeil dezelfde naam?",
+      "answer": "Nee, druk en peil zijn verschillende begrippen",
+      "choices": [
+        "Nee, druk en peil zijn verschillende begrippen",
+        "Ja, ze betekenen altijd exact hetzelfde",
+        "Alleen bij rode auto’s",
+        "Alleen als de auto stilstaat"
+      ],
+      "explanation": "Nee, druk en peil zijn verschillende begrippen",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q74",
+      "topic": 3,
+      "page": 6,
+      "prompt": "Welke schoenen zijn verplicht in de schoolwerkplaats?",
+      "answer": "Veiligheidsschoenen",
+      "choices": [
+        "Veiligheidsschoenen",
+        "Slippers",
+        "Alleen sportschoenen",
+        "Sokken zonder schoenen"
+      ],
+      "explanation": "Veiligheidsschoenen",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q75",
+      "topic": 3,
+      "page": 6,
+      "prompt": "Waarom draag je volgens de schoolregels geen oortjes?",
+      "answer": "Je moet waarschuwingen kunnen horen",
+      "choices": [
+        "Je moet waarschuwingen kunnen horen",
+        "Je kunt anders de bandenmaat niet lezen",
+        "Oortjes veranderen de bandenspanning",
+        "De radio wordt er vies van"
+      ],
+      "explanation": "Je moet waarschuwingen kunnen horen",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q76",
+      "topic": 3,
+      "page": 6,
+      "prompt": "Hoeveel leerlingen mogen volgens deze schoolregels maximaal onder één brug staan?",
+      "answer": "Twee",
+      "choices": [
+        "Twee",
+        "Drie",
+        "Vier",
+        "Zoveel als er passen"
+      ],
+      "explanation": "Twee",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q77",
+      "topic": 3,
+      "page": 6,
+      "prompt": "Wat zegt het boek over eten en drinken in de werkplaats?",
+      "answer": "Dat is niet toegestaan",
+      "choices": [
+        "Dat is niet toegestaan",
+        "Dat moet bij elke auto",
+        "Dat mag op de motorkap",
+        "Dat mag alleen onder de brug"
+      ],
+      "explanation": "Dat is niet toegestaan",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q78",
+      "topic": 3,
+      "page": 6,
+      "prompt": "Welke bescherming noemt het boek bij werken met een slijptol?",
+      "answer": "Oog- en gehoorbescherming",
+      "choices": [
+        "Oog- en gehoorbescherming",
+        "Alleen een pet",
+        "Alleen handschoenen",
+        "Geen bescherming"
+      ],
+      "explanation": "Oog- en gehoorbescherming",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q79",
+      "topic": 3,
+      "page": 22,
+      "prompt": "Waarom gebruik je een stoelhoes?",
+      "answer": "Om de stoelbekleding schoon te houden",
+      "choices": [
+        "Om de stoelbekleding schoon te houden",
+        "Om de bandenspanning te verhogen",
+        "Om de auto sneller te maken",
+        "Om het gereedschap te wegen"
+      ],
+      "explanation": "Om de stoelbekleding schoon te houden",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q80",
+      "topic": 3,
+      "page": 22,
+      "prompt": "Je ziet iets vreemds tijdens onderhoud. Wat doe je?",
+      "answer": "Je meldt het aan de chef of docent",
+      "choices": [
+        "Je meldt het aan de chef of docent",
+        "Je verbergt het",
+        "Je verandert niets en zegt niets",
+        "Je maakt er een grap over tegen de klant"
+      ],
+      "explanation": "Je meldt het aan de chef of docent",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q81",
+      "topic": 3,
+      "page": 22,
+      "prompt": "Waar schrijf je een werkbon?",
+      "answer": "Op een geschikte schrijftafel of klembord",
+      "choices": [
+        "Op een geschikte schrijftafel of klembord",
+        "Op de lak van de motorkap",
+        "Op de stoelbekleding",
+        "Op de voorruit met een kraspen"
+      ],
+      "explanation": "Op een geschikte schrijftafel of klembord",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q82",
+      "topic": 3,
+      "page": 22,
+      "prompt": "Wat doe je met spullen in het dashboardkastje?",
+      "answer": "Je blijft ervan af als je werk er niet om vraagt",
+      "choices": [
+        "Je blijft ervan af als je werk er niet om vraagt",
+        "Je zoekt naar geld",
+        "Je neemt iets mee",
+        "Je legt alles op de grond"
+      ],
+      "explanation": "Je blijft ervan af als je werk er niet om vraagt",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q83",
+      "topic": 3,
+      "page": 23,
+      "prompt": "Wie helpt de gezamenlijke werkplaats opruimen?",
+      "answer": "Je helpt zelf ook mee",
+      "choices": [
+        "Je helpt zelf ook mee",
+        "Alleen de docent",
+        "Alleen klanten",
+        "Niemand"
+      ],
+      "explanation": "Je helpt zelf ook mee",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q84",
+      "topic": 3,
+      "page": 22,
+      "prompt": "Hoe lever je de auto na je werk af?",
+      "answer": "Schoon en netjes",
+      "choices": [
+        "Schoon en netjes",
+        "Met gereedschap op de motorkap",
+        "Met vuile stoelen",
+        "Met afval op de vloer"
+      ],
+      "explanation": "Schoon en netjes",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q85",
+      "topic": 3,
+      "page": 24,
+      "prompt": "Waarom is leunen tegen een auto ongewenst?",
+      "answer": "Het kan schade of vuil veroorzaken en is onprofessioneel",
+      "choices": [
+        "Het kan schade of vuil veroorzaken en is onprofessioneel",
+        "De band wordt dan vanzelf leeg",
+        "De koplamp gaat dan altijd stuk",
+        "Het verandert de kilometerstand"
+      ],
+      "explanation": "Het kan schade of vuil veroorzaken en is onprofessioneel",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q86",
+      "topic": 4,
+      "page": 27,
+      "prompt": "Wat betekent 205 in 205/65 R15 94 T?",
+      "answer": "Bandbreedte van 205 mm",
+      "choices": [
+        "Bandbreedte van 205 mm",
+        "Bandhoogte van 205 mm",
+        "Velgdiameter van 205 inch",
+        "Draagvermogen van 205 kg"
+      ],
+      "explanation": "Bandbreedte van 205 mm",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q87",
+      "topic": 4,
+      "page": 27,
+      "prompt": "Wat betekent 65 in 205/65 R15 94 T?",
+      "answer": "Hoogte is 65% van de breedte",
+      "choices": [
+        "Hoogte is 65% van de breedte",
+        "Hoogte is 65 mm",
+        "Maximale snelheid is 65 km/h",
+        "Velgdiameter is 65 inch"
+      ],
+      "explanation": "Hoogte is 65% van de breedte",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q88",
+      "topic": 4,
+      "page": 27,
+      "prompt": "Wat betekent R in de bandencode?",
+      "answer": "Radiaal",
+      "choices": [
+        "Radiaal",
+        "Rechtsvoor",
+        "Reserve",
+        "Reparatie"
+      ],
+      "explanation": "Radiaal",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q89",
+      "topic": 4,
+      "page": 27,
+      "prompt": "Wat betekent 15 in 205/65 R15 94 T?",
+      "answer": "Hieldiameter van 15 inch",
+      "choices": [
+        "Hieldiameter van 15 inch",
+        "Breedte van 15 mm",
+        "Spanning van 15 bar",
+        "Leeftijd van 15 jaar"
+      ],
+      "explanation": "Hieldiameter van 15 inch",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q90",
+      "topic": 4,
+      "page": 27,
+      "prompt": "Wat geeft het draaggetal aan via een tabel?",
+      "answer": "De maximaal toegestane belasting per band",
+      "choices": [
+        "De maximaal toegestane belasting per band",
+        "Het aantal groeven",
+        "De voorgeschreven spanning",
+        "De kleur van het rubber"
+      ],
+      "explanation": "De maximaal toegestane belasting per band",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q91",
+      "topic": 4,
+      "page": 28,
+      "prompt": "Hoeveel mag een band met draaggetal 94 volgens de tabel dragen?",
+      "answer": "670 kg",
+      "choices": [
+        "670 kg",
+        "475 kg",
+        "545 kg",
+        "940 kg"
+      ],
+      "explanation": "670 kg",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q92",
+      "topic": 4,
+      "page": 28,
+      "prompt": "Hoeveel mag een band met draaggetal 87 volgens de tabel dragen?",
+      "answer": "545 kg",
+      "choices": [
+        "545 kg",
+        "870 kg",
+        "670 kg",
+        "475 kg"
+      ],
+      "explanation": "545 kg",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q93",
+      "topic": 4,
+      "page": 33,
+      "prompt": "Hoeveel mag een band met draaggetal 82 volgens de tabel dragen?",
+      "answer": "475 kg",
+      "choices": [
+        "475 kg",
+        "820 kg",
+        "670 kg",
+        "545 kg"
+      ],
+      "explanation": "475 kg",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q94",
+      "topic": 4,
+      "page": 28,
+      "prompt": "Welke maximale snelheid hoort bij T in de tabel?",
+      "answer": "190 km/h",
+      "choices": [
+        "190 km/h",
+        "160 km/h",
+        "180 km/h",
+        "240 km/h"
+      ],
+      "explanation": "190 km/h",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q95",
+      "topic": 4,
+      "page": 28,
+      "prompt": "Welke maximale snelheid hoort bij V in de tabel?",
+      "answer": "240 km/h",
+      "choices": [
+        "240 km/h",
+        "190 km/h",
+        "180 km/h",
+        "270 km/h"
+      ],
+      "explanation": "240 km/h",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q96",
+      "topic": 4,
+      "page": 31,
+      "prompt": "De schoolvraag noemt een topsnelheid van 175 km/h. Welke code uit de tabel is minimaal voldoende?",
+      "answer": "S (180 km/h)",
+      "choices": [
+        "S (180 km/h)",
+        "Q (160 km/h)",
+        "R (170 km/h)",
+        "P (150 km/h)"
+      ],
+      "explanation": "S (180 km/h)",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q97",
+      "topic": 4,
+      "page": 27,
+      "prompt": "Hoe bereken je de bandhoogte?",
+      "answer": "Breedte × hoogtepercentage ÷ 100",
+      "choices": [
+        "Breedte × hoogtepercentage ÷ 100",
+        "Breedte + velgdiameter",
+        "Breedte ÷ velgdiameter",
+        "Hoogtepercentage × 100"
+      ],
+      "explanation": "Breedte × hoogtepercentage ÷ 100",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q98",
+      "topic": 4,
+      "page": 27,
+      "prompt": "Wat is de hoogte bij 205/65 R15?",
+      "answer": "133,25 mm",
+      "choices": [
+        "133,25 mm",
+        "65 mm",
+        "205 mm",
+        "15 mm"
+      ],
+      "explanation": "133,25 mm",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q99",
+      "topic": 4,
+      "page": 28,
+      "prompt": "Wat is de hoogte bij 195/55 R16?",
+      "answer": "107,25 mm",
+      "choices": [
+        "107,25 mm",
+        "195,55 mm",
+        "55 mm",
+        "87 mm"
+      ],
+      "explanation": "107,25 mm",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q100",
+      "topic": 4,
+      "page": 33,
+      "prompt": "Wat is de hoogte bij 195/50 R15?",
+      "answer": "97,5 mm",
+      "choices": [
+        "97,5 mm",
+        "50 mm",
+        "195 mm",
+        "82 mm"
+      ],
+      "explanation": "97,5 mm",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q101",
+      "topic": 4,
+      "page": 29,
+      "prompt": "Welk deel is het geraamte van de band?",
+      "answer": "Het karkas",
+      "choices": [
+        "Het karkas",
+        "Het ventieldopje",
+        "Het balanceergewicht",
+        "De velgrand"
+      ],
+      "explanation": "Het karkas",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q102",
+      "topic": 4,
+      "page": 29,
+      "prompt": "Waar kun je de voorgeschreven bandenspanning vinden?",
+      "answer": "In de voertuiggegevens, bijvoorbeeld portier of instructieboek",
+      "choices": [
+        "In de voertuiggegevens, bijvoorbeeld portier of instructieboek",
+        "Door alleen het draaggetal te lezen",
+        "Op elke band altijd als advies voor de auto",
+        "Door de auto op kleur te vergelijken"
+      ],
+      "explanation": "In de voertuiggegevens, bijvoorbeeld portier of instructieboek",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q103",
+      "topic": 4,
+      "page": 32,
+      "prompt": "Waarom staan beladen en onbeladen apart in de tabel?",
+      "answer": "De voorgeschreven spanning kan verschillen bij belasting",
+      "choices": [
+        "De voorgeschreven spanning kan verschillen bij belasting",
+        "Het zijn twee kleuren banden",
+        "Het zijn dezelfde woorden voor voor en achter",
+        "Dan hoef je niet te meten"
+      ],
+      "explanation": "De voorgeschreven spanning kan verschillen bij belasting",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q104",
+      "topic": 4,
+      "page": 30,
+      "prompt": "Wat is de minimale profieldiepte in de hoofdgroeven volgens het boek?",
+      "answer": "1,6 mm",
+      "choices": [
+        "1,6 mm",
+        "0,6 mm",
+        "6 mm",
+        "16 mm"
+      ],
+      "explanation": "1,6 mm",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q105",
+      "topic": 4,
+      "page": 30,
+      "prompt": "Je meet 2,4 mm en elders 1,5 mm. Welke meting telt?",
+      "answer": "1,5 mm",
+      "choices": [
+        "1,5 mm",
+        "2,4 mm",
+        "Het gemiddelde van beide",
+        "Alleen de eerste meting"
+      ],
+      "explanation": "1,5 mm",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q106",
+      "topic": 4,
+      "page": 30,
+      "prompt": "Hoe hoog zijn de genoemde slijtage-indicatoren?",
+      "answer": "1,6 mm",
+      "choices": [
+        "1,6 mm",
+        "16 mm",
+        "0,16 mm",
+        "6 mm"
+      ],
+      "explanation": "1,6 mm",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q107",
+      "topic": 4,
+      "page": 30,
+      "prompt": "Waar meet je de relevante profieldiepte?",
+      "answer": "In de hoofdgroeven, op meerdere plaatsen",
+      "choices": [
+        "In de hoofdgroeven, op meerdere plaatsen",
+        "Alleen op een slijtage-indicator",
+        "Op het gladde ventiel",
+        "Op de velgrand"
+      ],
+      "explanation": "In de hoofdgroeven, op meerdere plaatsen",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q108",
+      "topic": 4,
+      "page": 30,
+      "prompt": "Welke vier punten horen bij de bandencheck?",
+      "answer": "Spanning, profiel, slijtagebeeld en beschadigingen",
+      "choices": [
+        "Spanning, profiel, slijtagebeeld en beschadigingen",
+        "Radio, stoel, spiegel en dak",
+        "Merk, kleur, prijs en geur",
+        "Motor, accu, uitlaat en stuur"
+      ],
+      "explanation": "Spanning, profiel, slijtagebeeld en beschadigingen",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q109",
+      "topic": 4,
+      "page": 30,
+      "prompt": "Welke afwijking noemt het boek als bandenschade?",
+      "answer": "Droogtescheuren",
+      "choices": [
+        "Droogtescheuren",
+        "Een duidelijk leesbaar merk",
+        "Een ventieldopje",
+        "Een nieuw profiel"
+      ],
+      "explanation": "Droogtescheuren",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q110",
+      "topic": 4,
+      "page": 34,
+      "prompt": "Hoe maak je de twee bandentabellen voor vakboekopdracht 4?",
+      "answer": "Zelfstandig",
+      "choices": [
+        "Zelfstandig",
+        "Alleen laten invullen door een klasgenoot",
+        "Zonder gegevens te bekijken",
+        "Alleen de kleuren opschrijven"
+      ],
+      "explanation": "Zelfstandig",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q111",
+      "topic": 5,
+      "page": 37,
+      "prompt": "Wat betekent een band demonteren?",
+      "answer": "De band van de velg halen",
+      "choices": [
+        "De band van de velg halen",
+        "Het wiel balanceren",
+        "Het profiel meten",
+        "De band schoonborstelen"
+      ],
+      "explanation": "De band van de velg halen",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q112",
+      "topic": 5,
+      "page": 37,
+      "prompt": "Wat betekent een band monteren?",
+      "answer": "De band op de velg zetten",
+      "choices": [
+        "De band op de velg zetten",
+        "De band van de velg halen",
+        "De velg wegen",
+        "De spanning aflezen"
+      ],
+      "explanation": "De band op de velg zetten",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q113",
+      "topic": 5,
+      "page": 37,
+      "prompt": "Waarom is het diepbed nodig?",
+      "answer": "Het geeft ruimte zodat de hiel over de velgrand kan",
+      "choices": [
+        "Het geeft ruimte zodat de hiel over de velgrand kan",
+        "Het bewaart extra balanceergewichten",
+        "Het koelt de radio",
+        "Het vervangt het ventiel"
+      ],
+      "explanation": "Het geeft ruimte zodat de hiel over de velgrand kan",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q114",
+      "topic": 5,
+      "page": 38,
+      "prompt": "Wat moet vóór het losdrukken met de band gebeuren?",
+      "answer": "De band moet volledig leeg zijn",
+      "choices": [
+        "De band moet volledig leeg zijn",
+        "De band moet extra hard worden opgepompt",
+        "De band moet nog op de auto zitten",
+        "De band moet worden verwarmd met vuur"
+      ],
+      "explanation": "De band moet volledig leeg zijn",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q115",
+      "topic": 5,
+      "page": 38,
+      "prompt": "Waarom haal je oude balanceergewichten vooraf weg?",
+      "answer": "Om beschadiging en hinder bij het werk te voorkomen",
+      "choices": [
+        "Om beschadiging en hinder bij het werk te voorkomen",
+        "Om de bandencode te veranderen",
+        "Om de profieldiepte te verhogen",
+        "Om de velg groter te maken"
+      ],
+      "explanation": "Om beschadiging en hinder bij het werk te voorkomen",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q116",
+      "topic": 5,
+      "page": 37,
+      "prompt": "Wat doet de hieldrukinrichting?",
+      "answer": "De hiel losdrukken van de velgrand",
+      "choices": [
+        "De hiel losdrukken van de velgrand",
+        "De bandenspanning meten",
+        "Het wiel balanceren",
+        "De koplamp stellen"
+      ],
+      "explanation": "De hiel losdrukken van de velgrand",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q117",
+      "topic": 5,
+      "page": 37,
+      "prompt": "Wat is de functie van de opspantafel?",
+      "answer": "Het wiel vastzetten op de bandenmachine",
+      "choices": [
+        "Het wiel vastzetten op de bandenmachine",
+        "De auto wassen",
+        "De bandencode printen",
+        "Het stuur vasthouden"
+      ],
+      "explanation": "Het wiel vastzetten op de bandenmachine",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q118",
+      "topic": 5,
+      "page": 38,
+      "prompt": "Waarom gebruik je montagepasta?",
+      "answer": "Om montage te vergemakkelijken en hielschade te helpen voorkomen",
+      "choices": [
+        "Om montage te vergemakkelijken en hielschade te helpen voorkomen",
+        "Om de band vast te lijmen aan de weg",
+        "Om gaten permanent te repareren",
+        "Om de bandbreedte te vergroten"
+      ],
+      "explanation": "Om montage te vergemakkelijken en hielschade te helpen voorkomen",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q119",
+      "topic": 5,
+      "page": 37,
+      "prompt": "Welk onderdeel kan bij het ventiel zitten en beschadigen tijdens montage?",
+      "answer": "Een druksensor",
+      "choices": [
+        "Een druksensor",
+        "Een bougie",
+        "Een koplamp",
+        "Een schokbreker"
+      ],
+      "explanation": "Een druksensor",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q120",
+      "topic": 5,
+      "page": 38,
+      "prompt": "Wat controleer je vóór montage?",
+      "answer": "Bandenmaat en voorgeschreven montageoriëntatie",
+      "choices": [
+        "Bandenmaat en voorgeschreven montageoriëntatie",
+        "Alleen het automerk",
+        "Alleen de kleur van de velg",
+        "Alleen het kenteken"
+      ],
+      "explanation": "Bandenmaat en voorgeschreven montageoriëntatie",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q121",
+      "topic": 5,
+      "page": 38,
+      "prompt": "Wat betekent OUTSIDE op een band?",
+      "answer": "Deze zijde hoort naar buiten",
+      "choices": [
+        "Deze zijde hoort naar buiten",
+        "Dit is de maximale snelheid",
+        "Deze band heeft geen profiel",
+        "Dit is de productiedatum"
+      ],
+      "explanation": "Deze zijde hoort naar buiten",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q122",
+      "topic": 5,
+      "page": 38,
+      "prompt": "Wat betekent ROTATION met een pijl?",
+      "answer": "De voorgeschreven draairichting",
+      "choices": [
+        "De voorgeschreven draairichting",
+        "De voorgeschreven bandenspanning",
+        "Het draaggetal",
+        "De breedte van de velg"
+      ],
+      "explanation": "De voorgeschreven draairichting",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q123",
+      "topic": 5,
+      "page": 39,
+      "prompt": "De hiel raakt beschadigd. Wat doe je?",
+      "answer": "Stoppen, melden en laten beoordelen door de docent",
+      "choices": [
+        "Stoppen, melden en laten beoordelen door de docent",
+        "Verbergen en doorwerken",
+        "Alleen extra lucht toevoegen",
+        "De beschadiging zwart kleuren"
+      ],
+      "explanation": "Stoppen, melden en laten beoordelen door de docent",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q124",
+      "topic": 5,
+      "page": 40,
+      "prompt": "Met welke velgen oefen je volgens praktijkopdracht 5?",
+      "answer": "Stalen velgen",
+      "choices": [
+        "Stalen velgen",
+        "Alleen aluminium velgen",
+        "Alleen motorfietsvelgen",
+        "Velgen zonder band"
+      ],
+      "explanation": "Stalen velgen",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q125",
+      "topic": 5,
+      "page": 40,
+      "prompt": "Hoeveel verschillende wielen moet je minimaal oefenen bij opdracht 5?",
+      "answer": "Vier",
+      "choices": [
+        "Vier",
+        "Eén",
+        "Twee",
+        "Drie"
+      ],
+      "explanation": "Vier",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q126",
+      "topic": 5,
+      "page": 38,
+      "prompt": "Moet volgens het hele boek elke velg altijd met de buitenkant boven worden opgespannen?",
+      "answer": "Nee, pagina 38 noemt een uitzondering bij een ander diepbed",
+      "choices": [
+        "Nee, pagina 38 noemt een uitzondering bij een ander diepbed",
+        "Ja, er is nooit een uitzondering",
+        "Alleen als er geen ventiel is",
+        "Alleen als de band nieuw is"
+      ],
+      "explanation": "Nee, pagina 38 noemt een uitzondering bij een ander diepbed",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q127",
+      "topic": 6,
+      "page": 43,
+      "prompt": "Waarom balanceer je een wiel?",
+      "answer": "Om onbalans door ongelijke gewichtsverdeling te corrigeren",
+      "choices": [
+        "Om onbalans door ongelijke gewichtsverdeling te corrigeren",
+        "Om de bandbreedte te veranderen",
+        "Om de band op kleur te brengen",
+        "Om de kilometerstand te verlagen"
+      ],
+      "explanation": "Om onbalans door ongelijke gewichtsverdeling te corrigeren",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q128",
+      "topic": 6,
+      "page": 43,
+      "prompt": "Welke beweging hoort bij statische onbalans?",
+      "answer": "Op en neer",
+      "choices": [
+        "Op en neer",
+        "Alleen langzaam ronddraaien",
+        "Naar binnen inklappen",
+        "Niet meer draaien"
+      ],
+      "explanation": "Op en neer",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q129",
+      "topic": 6,
+      "page": 43,
+      "prompt": "Welke beweging hoort bij dynamische onbalans?",
+      "answer": "Zijdelings slingeren",
+      "choices": [
+        "Zijdelings slingeren",
+        "Alleen stilstaan",
+        "Alleen opwarmen",
+        "Alleen leeglopen"
+      ],
+      "explanation": "Zijdelings slingeren",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q130",
+      "topic": 6,
+      "page": 43,
+      "prompt": "Wat kan onbalans vooraan volgens het boek veroorzaken?",
+      "answer": "Trillen van het stuur",
+      "choices": [
+        "Trillen van het stuur",
+        "Meer brandstof in de tank",
+        "Een andere bandenmaat",
+        "Een hogere profieldiepte"
+      ],
+      "explanation": "Trillen van het stuur",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q131",
+      "topic": 6,
+      "page": 44,
+      "prompt": "Waarom verwijder je steentjes vóór balanceren?",
+      "answer": "Ze beïnvloeden het gewicht en daarmee de meting",
+      "choices": [
+        "Ze beïnvloeden het gewicht en daarmee de meting",
+        "Ze verhogen de velgdiameter",
+        "Ze veranderen de snelheidscode",
+        "Ze zijn de voorgeschreven gewichten"
+      ],
+      "explanation": "Ze beïnvloeden het gewicht en daarmee de meting",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q132",
+      "topic": 6,
+      "page": 44,
+      "prompt": "Hoe moet de bandenspanning zijn vóór balanceren?",
+      "answer": "Volgens het voorschrift voor het voertuig",
+      "choices": [
+        "Volgens het voorschrift voor het voertuig",
+        "Zo hoog mogelijk",
+        "Altijd nul bar",
+        "Altijd precies 1 bar"
+      ],
+      "explanation": "Volgens het voorschrift voor het voertuig",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q133",
+      "topic": 6,
+      "page": 44,
+      "prompt": "Hoe centreer je het wiel het nauwkeurigst volgens het boek?",
+      "answer": "Zo veel mogelijk zoals het op de auto gecentreerd wordt",
+      "choices": [
+        "Zo veel mogelijk zoals het op de auto gecentreerd wordt",
+        "Op een willekeurige plek",
+        "Alleen aan het ventiel",
+        "Met de band los naast de machine"
+      ],
+      "explanation": "Zo veel mogelijk zoals het op de auto gecentreerd wordt",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q134",
+      "topic": 6,
+      "page": 43,
+      "prompt": "Wat doe je na het aanbrengen van balanceergewichten?",
+      "answer": "Opnieuw meten of de onbalans is gecorrigeerd",
+      "choices": [
+        "Opnieuw meten of de onbalans is gecorrigeerd",
+        "Direct stoppen zonder controle",
+        "De gewichten altijd verwijderen",
+        "De band leeg laten lopen"
+      ],
+      "explanation": "Opnieuw meten of de onbalans is gecorrigeerd",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q135",
+      "topic": 6,
+      "page": 43,
+      "prompt": "Hoeveel stukjes van 5 gram heb je nodig voor 15 gram?",
+      "answer": "Drie",
+      "choices": [
+        "Drie",
+        "Twee",
+        "Vier",
+        "Vijf"
+      ],
+      "explanation": "Drie",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q136",
+      "topic": 6,
+      "page": 43,
+      "prompt": "Welk type gewicht noemt het boek voor lichtmetalen velgen om schade te voorkomen?",
+      "answer": "Plakgewicht",
+      "choices": [
+        "Plakgewicht",
+        "Spijkers",
+        "Een willekeurige bout",
+        "Alleen extra montagepasta"
+      ],
+      "explanation": "Plakgewicht",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q137",
+      "topic": 6,
+      "page": 43,
+      "prompt": "Welk gereedschap noemt het boek voor slaggewichten?",
+      "answer": "Balanceertang",
+      "choices": [
+        "Balanceertang",
+        "Schaar",
+        "Rolmaat",
+        "Voelermaat"
+      ],
+      "explanation": "Balanceertang",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q138",
+      "topic": 6,
+      "page": 45,
+      "prompt": "Hoeveel wielen balanceer je in praktijkopdracht 6?",
+      "answer": "Alle vier de wielen",
+      "choices": [
+        "Alle vier de wielen",
+        "Alleen het linker voorwiel",
+        "Alleen twee achterwielen",
+        "Geen enkel wiel"
+      ],
+      "explanation": "Alle vier de wielen",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q139",
+      "topic": 6,
+      "page": 46,
+      "prompt": "Wat noteer je over het opspannen in je vakboek?",
+      "answer": "Hoe het wiel bevestigd en gecentreerd is",
+      "choices": [
+        "Hoe het wiel bevestigd en gecentreerd is",
+        "Welke muziek je luisterde",
+        "Welke kleur je schoenen hebben",
+        "Alleen de naam van de auto"
+      ],
+      "explanation": "Hoe het wiel bevestigd en gecentreerd is",
+      "image": null,
+      "kind": "Oefenvraag"
+    },
+    {
+      "id": "q140",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: bovenkant van de carrosserie?",
+      "answer": "Dak",
+      "choices": [
+        "Dak",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Bovenkant van de carrosserie",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q141",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: ruit vóór bestuurder en passagier?",
+      "answer": "Voorruit",
+      "choices": [
+        "Voorruit",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Ruit vóór bestuurder en passagier",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q142",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: rubbers die de ruit schoonvegen?",
+      "answer": "Ruitenwisserbladen",
+      "choices": [
+        "Ruitenwisserbladen",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Rubbers die de ruit schoonvegen",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q143",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: afdekking boven de motorruimte?",
+      "answer": "Motorkap",
+      "choices": [
+        "Motorkap",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Afdekking boven de motorruimte",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q144",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: bumper aan de voorkant?",
+      "answer": "Voorbumper",
+      "choices": [
+        "Voorbumper",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Bumper aan de voorkant",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q145",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: voorkant van de auto?",
+      "answer": "Voorzijde",
+      "choices": [
+        "Voorzijde",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Voorkant van de auto",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q146",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: doorzichtige delen voor de koplampen?",
+      "answer": "Koplampglazen",
+      "choices": [
+        "Koplampglazen",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Doorzichtige delen voor de koplampen",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q147",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: carrosseriedeel rond het linker voorwiel?",
+      "answer": "Voorspatscherm links",
+      "choices": [
+        "Voorspatscherm links",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Carrosseriedeel rond het linker voorwiel",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q148",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: linker voordeur?",
+      "answer": "Voorportier links",
+      "choices": [
+        "Voorportier links",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Linker voordeur",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q149",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: spiegel buiten aan de linkerzijde?",
+      "answer": "Buitenspiegel links",
+      "choices": [
+        "Buitenspiegel links",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Spiegel buiten aan de linkerzijde",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q150",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: linker achterdeur?",
+      "answer": "Achterportier links",
+      "choices": [
+        "Achterportier links",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Linker achterdeur",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q151",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: lage carrosseriedelen onder de linker portieren?",
+      "answer": "Dorpels links",
+      "choices": [
+        "Dorpels links",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Lage carrosseriedelen onder de linker portieren",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q152",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: carrosseriedeel rond het linker achterwiel?",
+      "answer": "Achterspatscherm links",
+      "choices": [
+        "Achterspatscherm links",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Carrosseriedeel rond het linker achterwiel",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q153",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: ruit achteraan de auto?",
+      "answer": "Achterruit",
+      "choices": [
+        "Achterruit",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Ruit achteraan de auto",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q154",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: afsluiting van de bagageruimte; uitvoering hangt van de auto af?",
+      "answer": "Kofferdeksel",
+      "choices": [
+        "Kofferdeksel",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Afsluiting van de bagageruimte; uitvoering hangt van de auto af",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q155",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: lichtgroepen aan de achterkant?",
+      "answer": "Achterlichtunits",
+      "choices": [
+        "Achterlichtunits",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Lichtgroepen aan de achterkant",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q156",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: bumper aan de achterkant?",
+      "answer": "Achterbumper",
+      "choices": [
+        "Achterbumper",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Bumper aan de achterkant",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q157",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: achterkant van de auto?",
+      "answer": "Achterzijde",
+      "choices": [
+        "Achterzijde",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Achterkant van de auto",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q158",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: carrosseriedeel rond het rechter achterwiel?",
+      "answer": "Achterspatscherm rechts",
+      "choices": [
+        "Achterspatscherm rechts",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Carrosseriedeel rond het rechter achterwiel",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q159",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: lage carrosseriedelen onder de rechter portieren?",
+      "answer": "Dorpels rechts",
+      "choices": [
+        "Dorpels rechts",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Lage carrosseriedelen onder de rechter portieren",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q160",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: rechter voordeur?",
+      "answer": "Voorportier rechts",
+      "choices": [
+        "Voorportier rechts",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Rechter voordeur",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q161",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: spiegel buiten aan de rechterzijde?",
+      "answer": "Buitenspiegel rechts",
+      "choices": [
+        "Buitenspiegel rechts",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Spiegel buiten aan de rechterzijde",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q162",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: carrosseriedeel rond het rechter voorwiel?",
+      "answer": "Voorspatscherm rechts",
+      "choices": [
+        "Voorspatscherm rechts",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Carrosseriedeel rond het rechter voorwiel",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q163",
+      "topic": 2,
+      "page": 17,
+      "prompt": "Welk woord past bij: velgen met banden?",
+      "answer": "Wielen",
+      "choices": [
+        "Wielen",
+        "Dakbekleding",
+        "Binnenspiegel",
+        "Vloerbekleding"
+      ],
+      "explanation": "Velgen met banden",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q164",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Welk woord past bij: bekleding aan de binnenzijde van het dak?",
+      "answer": "Dakbekleding",
+      "choices": [
+        "Dakbekleding",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Bekleding aan de binnenzijde van het dak",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q165",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Welk woord past bij: spiegel binnen in de auto?",
+      "answer": "Binnenspiegel",
+      "choices": [
+        "Binnenspiegel",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Spiegel binnen in de auto",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q166",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Welk woord past bij: bekleding van de vloer?",
+      "answer": "Vloerbekleding",
+      "choices": [
+        "Vloerbekleding",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Bekleding van de vloer",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q167",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Welk woord past bij: rubberen oppervlakken van de pedalen?",
+      "answer": "Pedaalrubbers",
+      "choices": [
+        "Pedaalrubbers",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Rubberen oppervlakken van de pedalen",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q168",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Welk woord past bij: bekleding van de stoelen?",
+      "answer": "Stoelbekleding",
+      "choices": [
+        "Stoelbekleding",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Bekleding van de stoelen",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q169",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Welk woord past bij: mechanisme om de stoel te verstellen?",
+      "answer": "Stoelverstelling",
+      "choices": [
+        "Stoelverstelling",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Mechanisme om de stoel te verstellen",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q170",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Welk woord past bij: bekleding aan de binnenkant van het portier?",
+      "answer": "Portierbekleding",
+      "choices": [
+        "Portierbekleding",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Bekleding aan de binnenkant van het portier",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q171",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Welk woord past bij: bediening van het deurslot?",
+      "answer": "Bediening portierslot",
+      "choices": [
+        "Bediening portierslot",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Bediening van het deurslot",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q172",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Welk woord past bij: bediening om een ruit te openen of sluiten?",
+      "answer": "Ruitbediening",
+      "choices": [
+        "Ruitbediening",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Bediening om een ruit te openen of sluiten",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q173",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Welk woord past bij: bediening om de buitenspiegel te verstellen?",
+      "answer": "Bediening buitenspiegel",
+      "choices": [
+        "Bediening buitenspiegel",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Bediening om de buitenspiegel te verstellen",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q174",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Welk woord past bij: afdichtingen rondom het portier?",
+      "answer": "Portierrubbers",
+      "choices": [
+        "Portierrubbers",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Afdichtingen rondom het portier",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q175",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Welk woord past bij: bekleding van de zitplaatsen achterin?",
+      "answer": "Bekleding achterbank",
+      "choices": [
+        "Bekleding achterbank",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Bekleding van de zitplaatsen achterin",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q176",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Welk woord past bij: mechanisme om de achterbank neer te klappen?",
+      "answer": "Neerklapmechanisme achterbank",
+      "choices": [
+        "Neerklapmechanisme achterbank",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Mechanisme om de achterbank neer te klappen",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q177",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Welk woord past bij: bekleding van de laad- of kofferruimte?",
+      "answer": "Bekleding bagageruimte",
+      "choices": [
+        "Bekleding bagageruimte",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Bekleding van de laad- of kofferruimte",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q178",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Welk woord past bij: afdichtingen rondom de bagageruimte?",
+      "answer": "Rubbers bagageruimte",
+      "choices": [
+        "Rubbers bagageruimte",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Afdichtingen rondom de bagageruimte",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q179",
+      "topic": 2,
+      "page": 18,
+      "prompt": "Welk woord past bij: afdekplank achter de achterbank?",
+      "answer": "Hoedenplank",
+      "choices": [
+        "Hoedenplank",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Afdekplank achter de achterbank",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q180",
+      "topic": 4,
+      "page": 29,
+      "prompt": "Welk woord past bij: het deel van de band dat de weg raakt?",
+      "answer": "Loopvlak",
+      "choices": [
+        "Loopvlak",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Het deel van de band dat de weg raakt",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q181",
+      "topic": 4,
+      "page": 29,
+      "prompt": "Welk woord past bij: overgang van het loopvlak naar de wang?",
+      "answer": "Schouder",
+      "choices": [
+        "Schouder",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Overgang van het loopvlak naar de wang",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q182",
+      "topic": 4,
+      "page": 29,
+      "prompt": "Welk woord past bij: zijkant van de band?",
+      "answer": "Wang",
+      "choices": [
+        "Wang",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Zijkant van de band",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q183",
+      "topic": 4,
+      "page": 29,
+      "prompt": "Welk woord past bij: deel waarmee de band op de velg aansluit?",
+      "answer": "Hiel",
+      "choices": [
+        "Hiel",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Deel waarmee de band op de velg aansluit",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q184",
+      "topic": 4,
+      "page": 29,
+      "prompt": "Welk woord past bij: versteviging in de hiel?",
+      "answer": "Hieldraad (hielkern)",
+      "choices": [
+        "Hieldraad (hielkern)",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Versteviging in de hiel",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q185",
+      "topic": 4,
+      "page": 29,
+      "prompt": "Welk woord past bij: dragende structuur die sterkte en vorm geeft?",
+      "answer": "Karkas",
+      "choices": [
+        "Karkas",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Dragende structuur die sterkte en vorm geeft",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q186",
+      "topic": 5,
+      "page": 37,
+      "prompt": "Welk woord past bij: verdieping in de velg die ruimte geeft bij montage?",
+      "answer": "Diepbed",
+      "choices": [
+        "Diepbed",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Verdieping in de velg die ruimte geeft bij montage",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q187",
+      "topic": 5,
+      "page": 37,
+      "prompt": "Welk woord past bij: opstaande rand van de velg?",
+      "answer": "Velgrand",
+      "choices": [
+        "Velgrand",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Opstaande rand van de velg",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q188",
+      "topic": 5,
+      "page": 41,
+      "prompt": "Welk woord past bij: onderdeel voor het vullen en afsluiten van de lucht?",
+      "answer": "Ventiel",
+      "choices": [
+        "Ventiel",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Onderdeel voor het vullen en afsluiten van de lucht",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q189",
+      "topic": 5,
+      "page": 41,
+      "prompt": "Welk woord past bij: sensor die bandenspanning meet?",
+      "answer": "Druksensor",
+      "choices": [
+        "Druksensor",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Sensor die bandenspanning meet",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q190",
+      "topic": 5,
+      "page": 41,
+      "prompt": "Welk woord past bij: hulpgereedschap voor bandenmontage volgens de machinemethode?",
+      "answer": "Bandenijzer",
+      "choices": [
+        "Bandenijzer",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Hulpgereedschap voor bandenmontage volgens de machinemethode",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q191",
+      "topic": 5,
+      "page": 41,
+      "prompt": "Welk woord past bij: geschikt hulpmiddel om montage te vergemakkelijken?",
+      "answer": "Montagepasta",
+      "choices": [
+        "Montagepasta",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Geschikt hulpmiddel om montage te vergemakkelijken",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q192",
+      "topic": 5,
+      "page": 41,
+      "prompt": "Welk woord past bij: apparaat voor het oppompen van een band?",
+      "answer": "Bandenpomp",
+      "choices": [
+        "Bandenpomp",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Apparaat voor het oppompen van een band",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q193",
+      "topic": 5,
+      "page": 37,
+      "prompt": "Welk woord past bij: arm van de bandenmachine met de montagekop?",
+      "answer": "Montagearm",
+      "choices": [
+        "Montagearm",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Arm van de bandenmachine met de montagekop",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q194",
+      "topic": 5,
+      "page": 37,
+      "prompt": "Welk woord past bij: deel waarop het wiel wordt vastgezet?",
+      "answer": "Opspantafel",
+      "choices": [
+        "Opspantafel",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Deel waarop het wiel wordt vastgezet",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q195",
+      "topic": 5,
+      "page": 37,
+      "prompt": "Welk woord past bij: deel dat de hiel van de velgrand losdrukt?",
+      "answer": "Hieldrukinrichting",
+      "choices": [
+        "Hieldrukinrichting",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Deel dat de hiel van de velgrand losdrukt",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q196",
+      "topic": 6,
+      "page": 43,
+      "prompt": "Welk woord past bij: gereedschap voor geschikte slaggewichten?",
+      "answer": "Balanceertang",
+      "choices": [
+        "Balanceertang",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Gereedschap voor geschikte slaggewichten",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q197",
+      "topic": 6,
+      "page": 43,
+      "prompt": "Welk woord past bij: ook: plakgewicht, met kleeflaag?",
+      "answer": "Plaklood",
+      "choices": [
+        "Plaklood",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Ook: plakgewicht, met kleeflaag",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q198",
+      "topic": 6,
+      "page": 43,
+      "prompt": "Welk woord past bij: ook: slaggewicht, voor een geschikte velgrand?",
+      "answer": "Slaglood",
+      "choices": [
+        "Slaglood",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Ook: slaggewicht, voor een geschikte velgrand",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q199",
+      "topic": 6,
+      "page": 43,
+      "prompt": "Welk woord past bij: velg van lichtmetaal, vaak aluminiumlegering?",
+      "answer": "Lichtmetalen velg",
+      "choices": [
+        "Lichtmetalen velg",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Velg van lichtmetaal, vaak aluminiumlegering",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q200",
+      "topic": 6,
+      "page": 44,
+      "prompt": "Welk woord past bij: gaten voor de wielbevestiging?",
+      "answer": "Boutgaten",
+      "choices": [
+        "Boutgaten",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Gaten voor de wielbevestiging",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q201",
+      "topic": 6,
+      "page": 44,
+      "prompt": "Welk woord past bij: opening in het midden van de velg?",
+      "answer": "Centraal gat",
+      "choices": [
+        "Centraal gat",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Opening in het midden van de velg",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q202",
+      "topic": 6,
+      "page": 44,
+      "prompt": "Welk woord past bij: afwijking waarbij het wiel in radiale richting op en neer loopt?",
+      "answer": "Hoogteslag",
+      "choices": [
+        "Hoogteslag",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Afwijking waarbij het wiel in radiale richting op en neer loopt",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q203",
+      "topic": 6,
+      "page": 44,
+      "prompt": "Welk woord past bij: zijdelingse afwijking tijdens het draaien?",
+      "answer": "Slingering",
+      "choices": [
+        "Slingering",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Zijdelingse afwijking tijdens het draaien",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q204",
+      "topic": 6,
+      "page": 43,
+      "prompt": "Welk woord past bij: ongelijke gewichtsverdeling met een op-en-neergaande beweging?",
+      "answer": "Statische onbalans",
+      "choices": [
+        "Statische onbalans",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Ongelijke gewichtsverdeling met een op-en-neergaande beweging",
+      "image": null,
+      "kind": "Vaktaal"
+    },
+    {
+      "id": "q205",
+      "topic": 6,
+      "page": 43,
+      "prompt": "Welk woord past bij: ongelijke verdeling met een zijdelingse slingerbeweging?",
+      "answer": "Dynamische onbalans",
+      "choices": [
+        "Dynamische onbalans",
+        "Dak",
+        "Voorruit",
+        "Ruitenwisserbladen"
+      ],
+      "explanation": "Ongelijke verdeling met een zijdelingse slingerbeweging",
+      "image": null,
+      "kind": "Vaktaal"
+    }
+  ],
+  "open": [
+    {
+      "topic": 3,
+      "page": 22,
+      "prompt": "Waarom is het belangrijk dat je ook op school netjes met de auto’s omgaat?",
+      "answer": "Je oefent de beroepshouding die op stage wordt verwacht. Je voorkomt schade en vervuiling en gaat respectvol met spullen om."
+    },
+    {
+      "topic": 4,
+      "page": 31,
+      "prompt": "Wat weet je als je het draaggetal van een autoband kent?",
+      "answer": "Via de draaggetaltabel vind je de maximale belasting in kilogram per band. Het draaggetal zelf is niet het aantal kilogram."
+    },
+    {
+      "topic": 4,
+      "page": 31,
+      "prompt": "Een auto kan 175 km/h rijden. Welke minimale snelheidsindex past volgens de tabel, en waarom?",
+      "answer": "S staat voor 180 km/h. R staat voor 170 km/h en is te laag voor de genoemde schoolopgave. Controleer in de praktijk altijd de volledige voertuig- en bandenvoorschriften."
+    },
+    {
+      "topic": 4,
+      "page": 31,
+      "prompt": "Geef drie voorbeelden van afwijkingen aan een band.",
+      "answer": "Bijvoorbeeld droogtescheuren, beschadigde of zichtbare karkasdraden en scheef afgesleten loopvlak. Laat schade beoordelen."
+    },
+    {
+      "topic": 4,
+      "page": 31,
+      "prompt": "Waarom zitten er slijtage-indicatoren in het profiel?",
+      "answer": "Ze geven visueel aan dat het profiel bij de genoemde grens van 1,6 mm komt. Meet ook op meerdere plaatsen; de laagste relevante meting telt."
+    },
+    {
+      "topic": 5,
+      "page": 39,
+      "prompt": "Waarom heb je het diepbed nodig bij montage?",
+      "answer": "Een deel van de hiel kan in het diepbed zakken. Daardoor ontstaat ruimte om het andere deel over de velgrand te brengen zonder te veel spanning op de hiel."
+    },
+    {
+      "topic": 5,
+      "page": 39,
+      "prompt": "Waarom verwijder je balanceergewichten vóór demontage?",
+      "answer": "Ze kunnen de velg of het gereedschap hinderen of beschadigen tijdens het werk."
+    },
+    {
+      "topic": 5,
+      "page": 39,
+      "prompt": "Waarom vraagt het boek om de buitenkant van de velg boven te leggen?",
+      "answer": "Bij een gebruikelijke velg is dat de bedoelde opspanning, maar “altijd” is te sterk: pagina 38 noemt een diepbed aan de andere kant. Laat de docent de juiste opspanning van de werkelijke velg uitleggen."
+    },
+    {
+      "topic": 6,
+      "page": 44,
+      "prompt": "Waarom gebruikt deze opdracht bij aluminium velgen plakgewicht in plaats van slaggewicht?",
+      "answer": "De opdracht wil beschadiging van de lichtmetalen velg vermijden. In de praktijk moet het gekozen gewicht geschikt zijn voor de betreffende velg; niet elke lichtmetalen velg sluit alle klemgewichten uit."
+    },
+    {
+      "topic": 6,
+      "page": 44,
+      "prompt": "Waarom merk je onbalans achter vaak minder direct aan het stuur dan onbalans voor?",
+      "answer": "De voorwielen zijn verbonden met de stuurinrichting. Trillingen van achterwielen voel je vaak meer via carrosserie of stoel. Dit is geen volledige diagnose van elke trilling."
+    },
+    {
+      "topic": 6,
+      "page": 44,
+      "prompt": "Waarom haal je steentjes uit het profiel vóór balanceren?",
+      "answer": "Steentjes voegen tijdelijk gewicht toe. Als ze later loskomen kan de gewichtsverdeling veranderen."
+    },
+    {
+      "topic": 1,
+      "page": 15,
+      "prompt": "Maak een korte uitleg bij een ringsleutel, steeksleutel, inbussleutel en Torx-sleutel.",
+      "answer": "Noem welk profiel of welke moer erbij hoort en dat de maat moet passen. Ringsleutel: omsluit de moer. Steeksleutel: open bek. Inbus: binnenzeskant. Torx: zespuntig sterprofiel."
+    },
+    {
+      "topic": 2,
+      "page": 17,
+      "prompt": "Beschrijf een beschadiging zonder alleen “niet OK” te schrijven.",
+      "answer": "Voorbeeld: “Een deuk in het linker achterportier.” Noem onderdeel, plaats en soort afwijking. Gebruik je eigen waarneming."
+    },
+    {
+      "topic": 4,
+      "page": 32,
+      "prompt": "Welke gegevens moet je aan een echte auto of band verzamelen?",
+      "answer": "Auto: merk, type, bouwjaar, kilometerstand. Band: code, merk, spanning, profieldiepte en afwijkingen. Neem de waarden van de echte auto; het boek geeft hiervoor geen ingevulde antwoorden."
+    },
+    {
+      "topic": 4,
+      "page": 33,
+      "prompt": "Bereken de hoogte van 195/50 R15 en zoek 82 T op.",
+      "answer": "195 × 50 ÷ 100 = 97,5 mm. Volgens de tabel: 82 = 475 kg per band en T = 190 km/h."
+    },
+    {
+      "topic": 6,
+      "page": 45,
+      "prompt": "Welke waarnemingen schrijf je na het balanceren op?",
+      "answer": "Gewichten en uitvoering, opspan- en centreermethode, plus werkelijke roest, schade, slijtage, hoogteslag of slingering. Verzin geen meetwaarden."
+    }
+  ],
+  "vocabulary": [
+    {
+      "name": "Dak",
+      "desc": "Bovenkant van de carrosserie",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Voorruit",
+      "desc": "Ruit vóór bestuurder en passagier",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Ruitenwisserbladen",
+      "desc": "Rubbers die de ruit schoonvegen",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Motorkap",
+      "desc": "Afdekking boven de motorruimte",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Voorbumper",
+      "desc": "Bumper aan de voorkant",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Voorzijde",
+      "desc": "Voorkant van de auto",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Koplampglazen",
+      "desc": "Doorzichtige delen voor de koplampen",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Voorspatscherm links",
+      "desc": "Carrosseriedeel rond het linker voorwiel",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Voorportier links",
+      "desc": "Linker voordeur",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Buitenspiegel links",
+      "desc": "Spiegel buiten aan de linkerzijde",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Achterportier links",
+      "desc": "Linker achterdeur",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Dorpels links",
+      "desc": "Lage carrosseriedelen onder de linker portieren",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Achterspatscherm links",
+      "desc": "Carrosseriedeel rond het linker achterwiel",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Achterruit",
+      "desc": "Ruit achteraan de auto",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Kofferdeksel",
+      "desc": "Afsluiting van de bagageruimte; uitvoering hangt van de auto af",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Achterlichtunits",
+      "desc": "Lichtgroepen aan de achterkant",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Achterbumper",
+      "desc": "Bumper aan de achterkant",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Achterzijde",
+      "desc": "Achterkant van de auto",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Achterspatscherm rechts",
+      "desc": "Carrosseriedeel rond het rechter achterwiel",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Dorpels rechts",
+      "desc": "Lage carrosseriedelen onder de rechter portieren",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Voorportier rechts",
+      "desc": "Rechter voordeur",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Buitenspiegel rechts",
+      "desc": "Spiegel buiten aan de rechterzijde",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Voorspatscherm rechts",
+      "desc": "Carrosseriedeel rond het rechter voorwiel",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Wielen",
+      "desc": "Velgen met banden",
+      "page": 17,
+      "group": "Exterieur"
+    },
+    {
+      "name": "Dakbekleding",
+      "desc": "Bekleding aan de binnenzijde van het dak",
+      "page": 18,
+      "group": "Interieur"
+    },
+    {
+      "name": "Binnenspiegel",
+      "desc": "Spiegel binnen in de auto",
+      "page": 18,
+      "group": "Interieur"
+    },
+    {
+      "name": "Vloerbekleding",
+      "desc": "Bekleding van de vloer",
+      "page": 18,
+      "group": "Interieur"
+    },
+    {
+      "name": "Pedaalrubbers",
+      "desc": "Rubberen oppervlakken van de pedalen",
+      "page": 18,
+      "group": "Interieur"
+    },
+    {
+      "name": "Stoelbekleding",
+      "desc": "Bekleding van de stoelen",
+      "page": 18,
+      "group": "Interieur"
+    },
+    {
+      "name": "Stoelverstelling",
+      "desc": "Mechanisme om de stoel te verstellen",
+      "page": 18,
+      "group": "Interieur"
+    },
+    {
+      "name": "Portierbekleding",
+      "desc": "Bekleding aan de binnenkant van het portier",
+      "page": 18,
+      "group": "Interieur"
+    },
+    {
+      "name": "Bediening portierslot",
+      "desc": "Bediening van het deurslot",
+      "page": 18,
+      "group": "Interieur"
+    },
+    {
+      "name": "Ruitbediening",
+      "desc": "Bediening om een ruit te openen of sluiten",
+      "page": 18,
+      "group": "Interieur"
+    },
+    {
+      "name": "Bediening buitenspiegel",
+      "desc": "Bediening om de buitenspiegel te verstellen",
+      "page": 18,
+      "group": "Interieur"
+    },
+    {
+      "name": "Portierrubbers",
+      "desc": "Afdichtingen rondom het portier",
+      "page": 18,
+      "group": "Interieur"
+    },
+    {
+      "name": "Bekleding achterbank",
+      "desc": "Bekleding van de zitplaatsen achterin",
+      "page": 18,
+      "group": "Interieur"
+    },
+    {
+      "name": "Neerklapmechanisme achterbank",
+      "desc": "Mechanisme om de achterbank neer te klappen",
+      "page": 18,
+      "group": "Interieur"
+    },
+    {
+      "name": "Bekleding bagageruimte",
+      "desc": "Bekleding van de laad- of kofferruimte",
+      "page": 18,
+      "group": "Interieur"
+    },
+    {
+      "name": "Rubbers bagageruimte",
+      "desc": "Afdichtingen rondom de bagageruimte",
+      "page": 18,
+      "group": "Interieur"
+    },
+    {
+      "name": "Hoedenplank",
+      "desc": "Afdekplank achter de achterbank",
+      "page": 18,
+      "group": "Interieur"
+    },
+    {
+      "name": "Loopvlak",
+      "desc": "Het deel van de band dat de weg raakt",
+      "page": 29,
+      "group": "Banden"
+    },
+    {
+      "name": "Schouder",
+      "desc": "Overgang van het loopvlak naar de wang",
+      "page": 29,
+      "group": "Banden"
+    },
+    {
+      "name": "Wang",
+      "desc": "Zijkant van de band",
+      "page": 29,
+      "group": "Banden"
+    },
+    {
+      "name": "Hiel",
+      "desc": "Deel waarmee de band op de velg aansluit",
+      "page": 29,
+      "group": "Banden"
+    },
+    {
+      "name": "Hieldraad (hielkern)",
+      "desc": "Versteviging in de hiel",
+      "page": 29,
+      "group": "Banden"
+    },
+    {
+      "name": "Karkas",
+      "desc": "Dragende structuur die sterkte en vorm geeft",
+      "page": 29,
+      "group": "Banden"
+    },
+    {
+      "name": "Diepbed",
+      "desc": "Verdieping in de velg die ruimte geeft bij montage",
+      "page": 37,
+      "group": "Montage"
+    },
+    {
+      "name": "Velgrand",
+      "desc": "Opstaande rand van de velg",
+      "page": 37,
+      "group": "Montage"
+    },
+    {
+      "name": "Ventiel",
+      "desc": "Onderdeel voor het vullen en afsluiten van de lucht",
+      "page": 41,
+      "group": "Montage"
+    },
+    {
+      "name": "Druksensor",
+      "desc": "Sensor die bandenspanning meet",
+      "page": 41,
+      "group": "Montage"
+    },
+    {
+      "name": "Bandenijzer",
+      "desc": "Hulpgereedschap voor bandenmontage volgens de machinemethode",
+      "page": 41,
+      "group": "Montage"
+    },
+    {
+      "name": "Montagepasta",
+      "desc": "Geschikt hulpmiddel om montage te vergemakkelijken",
+      "page": 41,
+      "group": "Montage"
+    },
+    {
+      "name": "Bandenpomp",
+      "desc": "Apparaat voor het oppompen van een band",
+      "page": 41,
+      "group": "Montage"
+    },
+    {
+      "name": "Montagearm",
+      "desc": "Arm van de bandenmachine met de montagekop",
+      "page": 37,
+      "group": "Montage"
+    },
+    {
+      "name": "Opspantafel",
+      "desc": "Deel waarop het wiel wordt vastgezet",
+      "page": 37,
+      "group": "Montage"
+    },
+    {
+      "name": "Hieldrukinrichting",
+      "desc": "Deel dat de hiel van de velgrand losdrukt",
+      "page": 37,
+      "group": "Montage"
+    },
+    {
+      "name": "Balanceertang",
+      "desc": "Gereedschap voor geschikte slaggewichten",
+      "page": 43,
+      "group": "Balanceren"
+    },
+    {
+      "name": "Plaklood",
+      "desc": "Ook: plakgewicht, met kleeflaag",
+      "page": 43,
+      "group": "Balanceren"
+    },
+    {
+      "name": "Slaglood",
+      "desc": "Ook: slaggewicht, voor een geschikte velgrand",
+      "page": 43,
+      "group": "Balanceren"
+    },
+    {
+      "name": "Lichtmetalen velg",
+      "desc": "Velg van lichtmetaal, vaak aluminiumlegering",
+      "page": 43,
+      "group": "Balanceren"
+    },
+    {
+      "name": "Boutgaten",
+      "desc": "Gaten voor de wielbevestiging",
+      "page": 44,
+      "group": "Balanceren"
+    },
+    {
+      "name": "Centraal gat",
+      "desc": "Opening in het midden van de velg",
+      "page": 44,
+      "group": "Balanceren"
+    },
+    {
+      "name": "Hoogteslag",
+      "desc": "Afwijking waarbij het wiel in radiale richting op en neer loopt",
+      "page": 44,
+      "group": "Balanceren"
+    },
+    {
+      "name": "Slingering",
+      "desc": "Zijdelingse afwijking tijdens het draaien",
+      "page": 44,
+      "group": "Balanceren"
+    },
+    {
+      "name": "Statische onbalans",
+      "desc": "Ongelijke gewichtsverdeling met een op-en-neergaande beweging",
+      "page": 43,
+      "group": "Balanceren"
+    },
+    {
+      "name": "Dynamische onbalans",
+      "desc": "Ongelijke verdeling met een zijdelingse slingerbeweging",
+      "page": 43,
+      "group": "Balanceren"
+    }
+  ],
+  "exam": {
+    "certain": [
+      "Het boek zegt op pagina 1–2 dat je de basismodule afsluit met een toets en die moet halen voordat je verdergaat.",
+      "De inhoud van deze basismodule is opdracht 1 tot en met 6. Antwoorden staan volgens pagina 2 in de theorie en in je eigen vakboek.",
+      "Op pagina 3 staat de werkvolgorde: theorie, vakboekopdracht vooraf lezen, praktijk, vakboek uitwerken. Vaktaal is extra.",
+      "De kennis- en vaardighedenlijst moet je bewaren en laten aftekenen. De lijst loopt door over de hele opleiding."
+    ],
+    "likely": [
+      "Afbeeldingen of echte onderdelen herkennen: gereedschappen, auto-onderdelen, dashboardlampjes en bandendelen.",
+      "Korte open antwoorden: uitleggen waarom je iets doet, bijvoorbeeld het diepbed gebruiken of steentjes verwijderen.",
+      "Codes en tabellen lezen: draaggetal, snelheidsindex, bandenmaat en hoogteberekeningen.",
+      "Praktische waarnemingen beschrijven: schade, bandenspanning, profiel, beschermhoezen en werkhouding.",
+      "Deze vraagvormen zijn afgeleid van de opdrachten. De docent kan een andere toetsvorm kiezen."
+    ],
+    "unknown": [
+      "De exacte toetsvragen, toetsdatum, duur, aantal vragen en officiële slaaggrens staan niet in deze PDF.",
+      "Het boek geeft geen ingevulde meetwaarden voor jouw auto, gereedschapsset of balanceermachine. Verzamel die in de werkplaats.",
+      "75% bij de leerdoelen op pagina 7 is geen bevestigde slaaggrens voor het examen."
+    ],
+    "later": [
+      "Voorwiel en achterwiel wisselen op een hefbrug.",
+      "Koplampen afstellen.",
+      "Een band vervangen en het wiel balanceren.",
+      "Een autoband repareren met een combipleister.",
+      "Koelvloeistof, bandenspanning en profieldiepte meten."
+    ],
+    "laterNote": "Deze vijf examenopdrachten staan op pagina 5 bij periode 4. Ze zijn geen bewijs dat ze allemaal in de eerste basismoduletoets worden getoetst. Uitgewerkte leerstof voor koplampen, combipleister en koelvloeistof ontbreekt in deze PDF."
+  },
+  "nextModules": [
+    {
+      "title": "Tweede module · opdrachten 7–12",
+      "items": [
+        "Banden repareren",
+        "Wielen verwisselen",
+        "Inlaatsysteem",
+        "Uitlaatsysteem",
+        "Koplamp afstellen",
+        "Olie verversen"
+      ],
+      "page": 4
+    },
+    {
+      "title": "Derde module · opdrachten 13–19",
+      "items": [
+        "Schijfremmen",
+        "Trommelremmen",
+        "Riemen vervangen",
+        "Een auto wassen en poetsen",
+        "De viertaktmotor",
+        "Meten aan koelsystemen",
+        "Accu uitbouwen"
+      ],
+      "page": 4
+    },
+    {
+      "title": "Verdiepende module voor doorleren · opdrachten 20–25",
+      "items": [
+        "Elektrisch systeem",
+        "Ruitreparatie",
+        "Een pakking maken",
+        "Meten in de werkplaats",
+        "Lassen van een dobbelsteen",
+        "Basic Technical English"
+      ],
+      "page": 5
+    }
+  ],
+  "notes": [
+    {
+      "title": "Geen ingevuld examen",
+      "text": "Dit is een werkboek. Meerkeuzevragen op deze site zijn oefenvragen, geen voorspelling van de exacte toets. Bij “Open vragen” vind je onder andere de echte vraagonderwerpen uit het boek.",
+      "page": 2
+    },
+    {
+      "title": "Velg niet altijd buitenkant boven",
+      "text": "De vraag op pagina 39 zegt “altijd”. Pagina 38 noemt juist de uitzondering bij een diepbed aan de andere kant. Leer de functie van het diepbed en laat de juiste opspanning voordoen.",
+      "page": 38
+    },
+    {
+      "title": "Draairichting en montagezijde",
+      "text": "ROTATION met een pijl geeft de draairichting aan. INSIDE/OUTSIDE geeft de montagezijde aan. Deze twee begrippen zijn niet hetzelfde.",
+      "page": 38,
+      "url": "https://apk-handboek.rdw.nl/personenautos/ophanging/banden"
+    },
+    {
+      "title": "Instellen van de balanceermachine",
+      "text": "Pagina 43 noemt “breedte van de band”. Een gangbare balanceermachine vraagt velgafmetingen. Neem de invoer over van de gebruikte machine en laat afstand, diameter en breedte uitleggen.",
+      "page": 43,
+      "url": "https://www.hunter.com/wheel-balancers/road-force/"
+    },
+    {
+      "title": "Schoolvoorbeeld van montage-inflatie",
+      "text": "De 3,5 bar op pagina 39 hoort bij de beschreven schoolwerkwijze. Gebruik dit niet als universele druk voor elke band of machine. Vraag de docent naar het passende voorschrift.",
+      "page": 39
+    },
+    {
+      "title": "Snelheidsindex en APK",
+      "text": "Voor de schoolopgave van 175 km/h geeft de tabel S = 180 km/h. Een volledige beoordeling in de praktijk hangt ook af van voertuig- en bandenvoorschriften; het werkboek is geen volledig APK-handboek.",
+      "page": 31
+    },
+    {
+      "title": "Gewichten op lichtmetalen velgen",
+      "text": "Het boek leert plakgewicht te gebruiken om schade te voorkomen. De uitspraak dat slaggewicht nooit op aluminium kan is te algemeen; gebruik de voor de velg bedoelde uitvoering.",
+      "page": 44
+    }
+  ]
+}
